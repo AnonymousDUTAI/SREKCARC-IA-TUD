@@ -33,7 +33,7 @@
 
 ## 5.3 参考资料
 
-- [来自北大信科学长的Wiki](csdiy.wiki)
+- [来自北大信科学长的Wiki](https://csdiy.wiki)
 - 上海交通大学学生生存手册
 - [浙江大学课程攻略共享计划]([QSCTech/zju-icicles: 浙江大学课程攻略共享计划 (github.com)](https://github.com/QSCTech/zju-icicles/tree/master))
 
