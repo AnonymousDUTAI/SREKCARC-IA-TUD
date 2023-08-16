@@ -1,10 +1,10 @@
 site_name: SREKCARC-IA-TUD
-site_url: https://aidiy.wiki/
+site_url: https://dutailab.wiki/
 site_author: Falcary
 site_description: >-
   SREKCARC-IA-TUD
 
-copyright: Copyright &copy; 2022-2023 <a href="https://github.com/AnonymousDUTAI target="_blank" rel="noopener noreferrer">AnonymousDUTAI</a>
+copyright: Copyright &copy; 2022-2023 <a href="https://github.com/AnonymousDUTAI target="SREKCARC-IA-TUD" rel="noopener noreferrer">AnonymousDUTAI</a>
 repo_url: https://github.com/AnonymousDUTAI/SREKCARC-IA-TUD
 repo_name: AnonymousDUTAI/SREKCARC-IA-TUD
 
@@ -140,6 +140,14 @@ extra:
     property: G-KJB4RXSKZG
 
 nav:
+  - 经验分享:
+    - "Chapter 0.写在前面的话": "经验分享/Chapter0.md"
+    - "Chapter 1.志在大工": "经验分享/Chapter1.md"
+    - "Chapter 2.学在大工": "经验分享/Chapter1.md"
+    - "Chapter 3.活在大工": "经验分享/Chapter1.md"
+    - "Chapter 4.巧在大工": "经验分享/Chapter1.md"
+    - "后记": "经验分享/Chapter1.md"
+    
   # fallback_to_build_date: true
   - 学习部分:
     - 前言: "index.md"
@@ -265,11 +273,5 @@ nav:
         - "Stanford STATS214 / CS229M: Machine Learning Theory": "机器学习进阶/CS229M.md"
     - 后记: "后记.md"
 
-  - 经验分享:
-    - "Chapter 0.写在前面的话": "经验分享/Chapter0.md"
-    - "Chapter 1.志在大工": "经验分享/Chapter1.md"
-    - "Chapter 2.学在大工": "经验分享/Chapter1.md"
-    - "Chapter 3.活在大工": "经验分享/Chapter1.md"
-    - "Chapter 4.巧在大工": "经验分享/Chapter1.md"
-    - "后记": "经验分享/Chapter1.md"
+
     
