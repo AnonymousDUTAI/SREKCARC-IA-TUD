@@ -17,6 +17,14 @@
          
     </url>
     <url>
+         <loc>https://dutailab.wiki/TODOLIST/</loc>
+         <lastmod>2023-08-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dutailab.wiki/zh/TODOLIST/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dutailab.wiki/en/TODOLIST/"/>
+         
+    </url>
+    <url>
          <loc>https://dutailab.wiki/index1/</loc>
          <lastmod>2023-08-16</lastmod>
          <changefreq>daily</changefreq>
@@ -481,6 +489,14 @@
          
     </url>
     <url>
+         <loc>https://dutailab.wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML_zh/</loc>
+         <lastmod>2023-08-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dutailab.wiki/zh/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML_zh/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dutailab.wiki/en/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML_zh/"/>
+         
+    </url>
+    <url>
          <loc>https://dutailab.wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%B3%BB%E7%BB%9F/AICS/</loc>
          <lastmod>2023-08-16</lastmod>
          <changefreq>daily</changefreq>
@@ -590,6 +606,14 @@
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="zh" href="https://dutailab.wiki/zh/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/LHY/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://dutailab.wiki/en/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/LHY/"/>
+         
+    </url>
+    <url>
+         <loc>https://dutailab.wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E8%B7%9F%E7%9D%80%E6%9D%8E%E6%B2%90%E5%AD%A6AI/</loc>
+         <lastmod>2023-08-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dutailab.wiki/zh/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E8%B7%9F%E7%9D%80%E6%9D%8E%E6%B2%90%E5%AD%A6AI/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dutailab.wiki/en/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E8%B7%9F%E7%9D%80%E6%9D%8E%E6%B2%90%E5%AD%A6AI/"/>
          
     </url>
     <url>
@@ -910,6 +934,14 @@
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="zh" href="https://dutailab.wiki/zh/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/CS143/"/>
          <xhtml:link rel="alternate" hreflang="en" href="https://dutailab.wiki/en/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/CS143/"/>
+         
+    </url>
+    <url>
+         <loc>https://dutailab.wiki/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/CS224N/</loc>
+         <lastmod>2023-08-16</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://dutailab.wiki/zh/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/CS224N/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="https://dutailab.wiki/en/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/CS224N/"/>
          
     </url>
     <url>
