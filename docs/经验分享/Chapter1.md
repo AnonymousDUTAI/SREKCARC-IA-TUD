@@ -264,7 +264,7 @@
 
 > *慢慢走，会更快；适时停一停，会走得更远*
 
- 如果说，毕业文凭是一项增值服务，那么大学四年就是一笔投资。说到投资，请大家设想象下，如果你手上现在有五百万现金，你打算如何投资？也许你会拿这笔钱炒股炒房炒汇炒基金，或者是开公司开厂房倒买倒卖做生意。但我想，我们这样年纪的人，很少有人会认同把那笔钱换成金银珠宝，放到保险箱里存起来。当然了，看近年通货膨胀的架势，把钱存进银行吃到的利息估计还赶不上贬值的速度。
+如果说，毕业文凭是一项增值服务，那么大学四年就是一笔投资。说到投资，请大家设想象下，如果你手上现在有五百万现金，你打算如何投资？也许你会拿这笔钱炒股炒房炒汇炒基金，或者是开公司开厂房倒买倒卖做生意。但我想，我们这样年纪的人，很少有人会认同把那笔钱换成金银珠宝，放到保险箱里存起来。当然了，看近年通货膨胀的架势，把钱存进银行吃到的利息估计还赶不上贬值的速度。
 
  我们之所以不认同换金银保值的想法，是因为我们知道，拥有这笔财富不应意味着坐吃山空，它们应当蕴含更大的力量，带来更广阔的机遇，在我们的操纵中产生出更为丰盛的回报！
 
@@ -323,3 +323,45 @@
  这个时候，在打着各种华丽口号的诱惑面前，我们要保持清醒，并且时刻告诫自己：
 
 > *总有更值得做的事*
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="AnonymousDUTAI/SREKCARC-IA-TUD"
+        data-repo-id="R_kgDOKG3dKg"
+        data-category="General"
+        data-category-id="DIC_kwDOKG3dKs4CYmFw"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
+
+<script>
+    var palette = __get("__palette")
+    if (palette && typeof palette.color === "object") {
+        if (palette.color.scheme === "slate") {
+            const giscus = document.querySelector("script[src*=giscus]")
+            giscus.setAttribute("data-theme", "dark_protanopia")
+        }
+    }
+
+    document.addEventListener("DOMContentLoaded", function () {
+        const ref = document.querySelector("[data-md-component=palette]")
+        ref.addEventListener("change", function () {
+            var palette = __get("__palette")
+            if (palette && typeof palette.color === "object") {
+                const theme = palette.color.scheme === "slate" ? "dark_protanopia" : "light_protanopia"
+                const frame = document.querySelector(".giscus-frame")
+                frame.contentWindow.postMessage({
+                    giscus: { setConfig: { theme } }
+                }, "https://giscus.app")
+            }
+        })
+    })
+</script>
