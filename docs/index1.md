@@ -4,18 +4,18 @@
 
 # 前言
 
-**最近更新：[Release v1.0.1](https://github.com/PKUFlyingPig/cs-self-learning/releases/tag/v1.0.1) 已发布 🎉**
+**最近更新：[Beta 1.0](https://github.com/AnonymousDUTAI/SREKCARC-IA-TUD) 已发布 🎉**
 
-这是一本计算机的自学指南，也是对自己大学三年自学生涯的一个纪念。
+这是一本AI的自学指南，也是对自己大学三年学习生涯的一个纪念。
 
-这同时也是一份献给北大信科学弟学妹们的礼物。如果这本书能对你们的信科生涯有哪怕一丝一毫的帮助，都是对我极大的鼓励和慰藉。
+这同时也是一份献给大工AI学弟学妹们的礼物。如果这本书能对你们的AI生涯有哪怕一丝一毫的帮助，都是对我极大的鼓励和慰藉。
 
-本书目前包括了以下部分(如果你有其他好的建议，或者想加入贡献者的行列，欢迎邮件 [zhongyinmin@pku.edu.cn](mailto:zhongyinmin@pku.edu.cn) 或者在 issue 里提问)：
+本书目前包括了以下部分(如果你有其他好的建议，或者想加入贡献者的行列，欢迎邮件 falcary@foxmail.com 或者在 issue 里提问)：
 
 - 必学工具：IDE, 翻墙, StackOverflow, Git, GitHub, Vim, LaTeX, GNU Make, 实用工具 ...
 - 环境配置：PC端以及服务器端开发环境配置、各类运维相关教材及资料 ...
 - 经典书籍推荐：看过 CSAPP 这本书的同学一定感叹好书的重要，我将列举推荐自己看过的计算机领域的必看好书与资源链接。
-- **国外高质量 CS 课程汇总**：我将把我上过的所有高质量的国外 CS 课程分门别类进行汇总，并给出相关的自学建议，大部分课程都会有一个独立的仓库维护相关的资源以及我的作业实现。
+- **国外高质量 AI 课程汇总**：我将把我上过的所有高质量的国外 AI 课程分门别类进行汇总，并给出相关的自学建议，大部分课程都会有一个独立的仓库维护相关的资源以及我的作业实现。
 
 ## 梦开始的地方 —— CS61A
 
@@ -83,32 +83,5 @@
 
 ## 你也想加入到贡献者的行列
 
-一个人的力量终究是有限的，这本书也是我在繁重的科研之余熬夜抽空写出来的，难免有不够完善之处。另外，由于个人做的是系统方向，很多课程侧重系统领域，对于数学、理论计算机、高级算法相关的内容则相对少些。如果有大佬想在其他领域分享自己的自学经历与资源，可以直接在项目中发起 Pull Request，也欢迎和我邮件联系（[zhongyinmin@pku.edu.cn](mailto:zhongyinmin@pku.edu.cn)）。
+一个人的力量终究是有限的，这本书也是我在繁重的科研之余熬夜抽空写出来的，难免有不够完善之处。另外，由于个人做的是系统方向，很多课程侧重系统领域，对于数学、理论计算机、高级算法相关的内容则相对少些。如果有大佬想在其他领域分享自己的自学经历与资源，可以直接在项目中发起 Pull Request，也欢迎和我邮件联系（[falcary@foxmail.com](mailto:falcary@foxmail.com)）。
 
-## 关于交流群的建立
-
-方法参见仓库的 `README.md`。
-
-<script>
-    var palette = __get("__palette")
-    if (palette && typeof palette.color === "object") {
-        if (palette.color.scheme === "slate") {
-            const giscus = document.querySelector("script[src*=giscus]")
-            giscus.setAttribute("data-theme", "dark_protanopia")
-        }
-    }
-
-    document.addEventListener("DOMContentLoaded", function () {
-        const ref = document.querySelector("[data-md-component=palette]")
-        ref.addEventListener("change", function () {
-            var palette = __get("__palette")
-            if (palette && typeof palette.color === "object") {
-                const theme = palette.color.scheme === "slate" ? "dark_protanopia" : "light_protanopia"
-                const frame = document.querySelector(".giscus-frame")
-                frame.contentWindow.postMessage({
-                    giscus: { setConfig: { theme } }
-                }, "https://giscus.app")
-            }
-        })
-    })
-</script>

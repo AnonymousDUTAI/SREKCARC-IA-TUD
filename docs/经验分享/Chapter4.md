@@ -4,7 +4,9 @@
 
 - 电信学部教务：🌈创新园大厦 a312  ☎️电话 0411-84708473 联系时间：工作日 8：00-17：00
 - 学校教务
-  - ![img](blob:https://ujsosoymgz.feishu.cn/37bf891c-0186-45eb-80cf-12b319b3a896)
+  - <figure markdown>
+  ![Image title](./images/tele.png){ width="600" }
+</figure>
 
 ##  4.2 重要的网站
 
@@ -26,7 +28,6 @@
 
 学会提问：也许你会惊讶，提问也算计算机必备技能吗，还放在第一条？我觉得在开源社区中，学会提问是一项非常重要的能力，它包含两方面的事情。其一是会变相地培养你自主解决问题的能力，因为从形成问题、描述问题并发布、他人回答、最后再到理解回答这个周期是非常长的，如果遇到什么鸡毛蒜皮的事情都希望别人最好远程桌面手把手帮你完成，那计算机的世界基本与你无缘了。其二，如果真的经过尝试还无法解决，可以借助开源社区的帮助，但这时候如何通过简洁的文字让别人瞬间理解你的处境以及目的，就显得尤为重要。推荐阅读[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)这篇文章，这不仅能提高你解决问题的概率和效率，也能让开源社区里无偿提供解答的人们拥有一个好心情。
 
-[**MIT-Missing-Semester**](编程入门/MIT-Missing-Semester.md) :这门课覆盖了这些工具中绝大部分，而且有相当详细的使用指导，强烈建议小白学习。不过需要注意的一点是，在课程中会不时提到一些与开发流程相关的术语。因此推荐至少在学完计算机导论级别的课程之后进行学习。
 
 [**翻墙**](必学工具/翻墙.md)：由于一些众所周知的原因，谷歌、GitHub 等网站在大陆无法访问。然而很多时候，谷歌和 StackOverflow 可以解决你在开发过程中遇到的 99% 的问题。因此，学会翻墙几乎是一个内地 CSer 的必备技能。（考虑到法律问题，这个文档提供的翻墙方式仅对拥有北大邮箱的用户适用）。
 
@@ -88,3 +89,45 @@
 ###     4.4.4 视觉 SLAM-高翔
 
 ​    链接：https://pan.baidu.com/s/1Hke3z-8GeWEzx597FBGWyQ?pwd=ffff 
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="AnonymousDUTAI/SREKCARC-IA-TUD"
+        data-repo-id="R_kgDOKG3dKg"
+        data-category="General"
+        data-category-id="DIC_kwDOKG3dKs4CYmFw"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
+
+<script>
+    var palette = __get("__palette")
+    if (palette && typeof palette.color === "object") {
+        if (palette.color.scheme === "slate") {
+            const giscus = document.querySelector("script[src*=giscus]")
+            giscus.setAttribute("data-theme", "dark_protanopia")
+        }
+    }
+
+    document.addEventListener("DOMContentLoaded", function () {
+        const ref = document.querySelector("[data-md-component=palette]")
+        ref.addEventListener("change", function () {
+            var palette = __get("__palette")
+            if (palette && typeof palette.color === "object") {
+                const theme = palette.color.scheme === "slate" ? "dark_protanopia" : "light_protanopia"
+                const frame = document.querySelector(".giscus-frame")
+                frame.contentWindow.postMessage({
+                    giscus: { setConfig: { theme } }
+                }, "https://giscus.app")
+            }
+        })
+    })
+</script>
