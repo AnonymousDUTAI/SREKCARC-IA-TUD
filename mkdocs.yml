@@ -193,10 +193,23 @@ nav:
         - "Stanford CS110L: Safety in Systems Programming": "编程入门/CS110L.md"
         - "AmirKabir University of Technology AP1400-2: Advanced Programming": "编程入门/AUT1400.md"
         - "Haskell MOOC": "编程入门/Haskell-MOOC.md"
-    - 电子基础:
-        - "EE16A&B: Designing Information Devices and Systems I&II": "电子基础/EE16.md"
-        - "UCB EE120 : Signal and Systems": "电子基础/signal.md"
-        - "MIT 6.007 Signals and Systems": "电子基础/Signals_and_Systems_AVO.md"
+    - 人工智能:
+        - "Harvard CS50's Introduction to AI with Python": "人工智能/CS50.md"
+        - "UCB CS188: Introduction to Artificial Intelligence": "人工智能/CS188.md"
+    - 深度学习:
+        - "Coursera: Deep Learning": "深度学习/CS230.md"
+        - "国立台湾大学：李宏毅机器学习": "深度学习/LHY.md"
+        - "Stanford CS231n: CNN for Visual Recognition": "深度学习/CS231.md"
+        - "Stanford CS224n: Natural Language Processing": "深度学习/CS224n.md"
+        - "Stanford CS224w: Machine Learning with Graphs": "深度学习/CS224w.md"
+        - "UCB CS285: Deep Reinforcement Learning": "深度学习/CS285.md"
+        - "跟着李沐学AI": "深度学习/跟着李沐学AI.md"
+    - 自然语言处理:
+      - "CS224N":“自然语言处理/CS224N.mds”
+    - 机器人Robotics:
+
+    - 计算机视觉:
+
     - 数据结构与算法:
         - "UCB CS61B: Data Structures and Algorithms": "数据结构与算法/CS61B.md"
         - "Coursera: Algorithms I & II": "数据结构与算法/Algo.md"
@@ -249,9 +262,6 @@ nav:
         - "CS571 Building UI (React & React Native)": "Web开发/CS571.md"
     - 数据科学:
         - "UCB Data100: Principles and Techniques of Data Science": "数据科学/Data100.md"
-    - 人工智能:
-        - "Harvard CS50's Introduction to AI with Python": "人工智能/CS50.md"
-        - "UCB CS188: Introduction to Artificial Intelligence": "人工智能/CS188.md"
     - 机器学习:
         - "Coursera: Machine Learning": "机器学习/ML.md"
         - "Stanford CS229: Machine Learning": "机器学习/CS229.md"
@@ -260,19 +270,20 @@ nav:
         - "智能计算系统": "机器学习系统/AICS.md"
         - "CMU 10-414/714: Deep Learning Systems": "机器学习系统/CMU10-414.md"
         - "Machine Learning Compilation": "机器学习系统/MLC.md"
-    - 深度学习:
-        - "Coursera: Deep Learning": "深度学习/CS230.md"
-        - "国立台湾大学：李宏毅机器学习": "深度学习/LHY.md"
-        - "Stanford CS231n: CNN for Visual Recognition": "深度学习/CS231.md"
-        - "Stanford CS224n: Natural Language Processing": "深度学习/CS224n.md"
-        - "Stanford CS224w: Machine Learning with Graphs": "深度学习/CS224w.md"
-        - "UCB CS285: Deep Reinforcement Learning": "深度学习/CS285.md"
+
     - 机器学习进阶:
         - "进阶路线图": "机器学习进阶/roadmap.md"
         - "CMU 10-708: Probabilistic Graphical Models": "机器学习进阶/CMU10-708.md"
         - "Columbia STAT 8201: Deep Generative Models": "机器学习进阶/STAT8201.md"
         - "U Toronto STA 4273 Winter 2021: Minimizing Expectations": "机器学习进阶/STA4273.md"
         - "Stanford STATS214 / CS229M: Machine Learning Theory": "机器学习进阶/CS229M.md"
+
+
+    - 电子基础:
+      - "EE16A&B: Designing Information Devices and Systems I&II": "电子基础/EE16.md"
+      - "UCB EE120 : Signal and Systems": "电子基础/signal.md"
+      - "MIT 6.007 Signals and Systems": "电子基础/Signals_and_Systems_AVO.md"
+
     - 后记: "后记.md"
 
 
