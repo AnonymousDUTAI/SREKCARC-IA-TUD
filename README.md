@@ -6,9 +6,9 @@
 
 > *Everyone should enjoy CS if you have a good teacher to teach you a good course.*
 
-[![License](https://img.shields.io/github/license/PKUFlyingPig/cs-self-learning)](https://github.com/PKUFlyingPig/cs-self-learning/blob/master/LICENSE)
-[![Issues](https://img.shields.io/github/issues/PKUFlyingPig/cs-self-learning)](https://github.com/PKUFlyingPig/cs-self-learning/issues)
-[![Stars](https://img.shields.io/github/stars/PKUFlyingPig/cs-self-learning)](https://github.com/PKUFlyingPig/cs-self-learning)
+[![License](https://img.shields.io/github/license/AnonymousDUTAI/SREKCARC-IA-TUD)](https://github.com/AnonymousDUTAI/SREKCARC-IA-TUD/blob/master/LICENSE)
+[![Issues](https://img.shields.io/github/issues/AnonymousDUTAI/SREKCARC-IA-TUD)](https://github.com/AnonymousDUTAI/SREKCARC-IA-TUD/issues)
+[![Stars](https://img.shields.io/github/stars/AnonymousDUTAI/SREKCARC-IA-TUD)](https://github.com/AnonymousDUTAI/SREKCARC-IA-TUDg)
 
 新冠肆虐，网课当道，CS 爆火，这一系列的事件都让自学计算机成为了一种潮流。
 
