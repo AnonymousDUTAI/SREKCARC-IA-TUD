@@ -40,6 +40,9 @@
 
 特别感谢参与此项目合作的所有朋友们，感谢北大信科某位伟大的学长的开源分享，也真诚地感谢所有将课程资源无偿开源的各位教授们。这些课程倾注了他们数十年教学生涯的积淀和心血，他们却选择无私地让所有人享受到如此高质量的CS+AI教育。没有他们，我的大学生活不会这样充实而快乐。
 
+<a href="https://github.com/AnonymousDUTAI/SREKCARC-IA-TUD/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AnonymousDUTAI/SREKCARC-IA-TUD"/>
+</a>
 
 ## 许可
 
