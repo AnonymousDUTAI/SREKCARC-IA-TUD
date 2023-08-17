@@ -1,6 +1,7 @@
 <figure markdown>
   ![Image title](./images/title.png){ width="600" }
 </figure>
+
 # Chapter 0.写在前面的话
 
 ## 0.1 Docs 声明
@@ -61,6 +62,14 @@
 ## 05.特别鸣谢
 
 特别感谢参与此docs写作的所有朋友们，感谢北大信科某位伟大的学长的开源分享，也真诚地感谢所有将课程资源无偿开源的各位教授们。这些课程倾注了他们数十年教学生涯的积淀和心血，他们却选择无私地让所有人享受到如此高质量的CS+AI教育。没有他们，我的大学生活不会这样充实而快乐。
+
+## 请作者喝杯下午茶
+
+本书的内容是完全开源免费的，如果你觉得该项目对你真的有帮助，可以给仓库点个 star 或者请作者喝一杯下午茶。
+
+![Image title](./images/PAYMENT.png)
+
+------
 
 <script src="https://giscus.app/client.js"
         data-repo="AnonymousDUTAI/SREKCARC-IA-TUD"
