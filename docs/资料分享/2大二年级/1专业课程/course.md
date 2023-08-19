@@ -199,3 +199,45 @@ Ans1:【2021】很麻，21级做的是四旋翼，时间太紧张了，最后一
 
 Ans2：【2020】开课的第一年，这一年李诗人还是比较友好的，我们做的是基于STM32F106的板子，任务是（如下图所示）。我的评价是，感觉老师不会教你任何的底层知识，基本全靠自学或者寻求会32的同学的援助。最后的任务也是通过绘制PCB、实现逻辑编程（包括串口通信、LCD展示、中断等等），有一定的难度，同样也要做好被拷打的准备。
 
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="AnonymousDUTAI/SREKCARC-IA-TUD"
+        data-repo-id="R_kgDOKG3dKg"
+        data-category="General"
+        data-category-id="DIC_kwDOKG3dKs4CYmFw"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
+
+<script>
+    var palette = __get("__palette")
+    if (palette && typeof palette.color === "object") {
+        if (palette.color.scheme === "slate") {
+            const giscus = document.querySelector("script[src*=giscus]")
+            giscus.setAttribute("data-theme", "dark_protanopia")
+        }
+    }
+
+    document.addEventListener("DOMContentLoaded", function () {
+        const ref = document.querySelector("[data-md-component=palette]")
+        ref.addEventListener("change", function () {
+            var palette = __get("__palette")
+            if (palette && typeof palette.color === "object") {
+                const theme = palette.color.scheme === "slate" ? "dark_protanopia" : "light_protanopia"
+                const frame = document.querySelector(".giscus-frame")
+                frame.contentWindow.postMessage({
+                    giscus: { setConfig: { theme } }
+                }, "https://giscus.app")
+            }
+        })
+    })
+</script>
