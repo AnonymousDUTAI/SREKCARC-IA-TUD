@@ -1,0 +1,147 @@
+{% extends "main.html" %}
+
+<!-- Render hero under tabs -->
+{% block tabs %}
+  {{ super() }}
+
+  <!-- Additional styles for landing page -->
+  <style>
+    
+    body {
+        background-image: url("/images/background.png");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+      }
+    
+      body::before {
+        content: "";
+        display: block;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.7); /* 透明度值在 0 到 1 之间 */
+        z-index: -1;
+      }
+    @font-face {
+        font-family: "segoesc-2";
+        src: url("/ttf/segoesc-2.ttf");
+    }
+    @font-face {
+        font-family: "95";
+        src: url("/ttf/95.ttf");
+    }
+    .mdx-container{
+         margin-top: 10em;
+    }
+    /* Application header should be static for the landing page */
+    .md-header {
+      position: initial;
+    }
+
+    /* Remove spacing, as we cannot hide it completely */
+    .md-main__inner {
+      margin: 0;
+    }
+
+    /* Hide main content for now */
+    .md-content {
+      display: none;
+    }
+
+    .mdx-hero__image {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+    .mdx-hero__content{
+        z-index: 1; /* 将前景内容置于上层 */
+        color: white; /* 白色字体 */
+        padding: 30px;
+        position: relative;
+        display: flex;
+        flex-direction: column; /* 垂直布局 */
+        justify-content: center; /* 在垂直方向上居中 */
+        align-items: center;
+    }
+
+    .mdx-hero__content h1 {
+        font-family: 'segoesc-2', sans-serif;
+        font-weight: 700; /* 设置为加粗 */
+        font-size: 64px;
+        margin: 0;
+        color: white; /* 将字体颜色设置为白色 */
+      }
+      .mdx-hero__content p {
+        font-family: 'segoesc-2', sans-serif;
+        font-size: 24px;
+        color: white; /* 将字体颜色设置为白色 */
+        max-width: 800px;
+        margin-top: 30px;
+      }
+
+    .button-container {
+        display: flex;
+        justify-content: center; /* 在水平方向上居中 */
+        margin-top: 20px; /* 设置按钮组的顶部边距 */
+      }
+      .button-container a {
+        font-family: 'segoesc-2', sans-serif;
+      }
+      .md-button {
+        margin: 0 20px; /* 设置按钮之间的间距 */
+      }
+    /* Hide table of contents */
+    @media screen and (min-width: 60em) {
+      .md-sidebar--secondary {
+        display: none;
+      }
+    }
+
+    /* Hide navigation */
+    @media screen and (min-width: 76.25em) {
+      .md-sidebar--primary {
+        display: none;
+      }
+    }
+
+
+  </style>
+
+  <!-- Hero for landing page -->
+  <section class="mdx-container">
+    <div class="md-grid md-typeset">
+      <div class="mdx-hero">
+
+        <!-- Hero image -->
+        <div class="mdx-hero__image">
+          <img
+            src="/images/title_white.png"
+            alt=""
+            width="600"
+            height="400"
+            draggable="false"
+          >
+        </div>
+
+        <!-- Hero content -->
+        <div class="mdx-hero__content">
+          <h1 color: white;>DUT AI LAB</h1>
+          <p>The purpose of writing this docs is to let more students understand the research direction, learning style and future prospects of Dagong AI, etc., aiming at passing on experience rather than providing resources, there is a strong subjectivity, I hope readers can distinguish and find their own path.</p>
+          <div class="button-container">
+            <a href="{{ page.next_page.url | url }}" title="{{ page.next_page.title | e }}" class="md-button md-button--primary">Start</a>
+            <a href="https://futureschool.dlut.edu.cn/" title="Material for MkDocs Insiders" class="md-button md-button--primary">College Web</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+{% endblock %}
+
+<!-- Content -->
+{% block content %}{% endblock %}
+
+<!-- Application footer -->
+{% block footer %}{% endblock %}

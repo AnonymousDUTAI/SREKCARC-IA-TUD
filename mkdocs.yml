@@ -140,10 +140,10 @@ extra:
     property: G-WKNQN4V76J
 
 nav:
-  - 首页: "home.md"
+  - 首页: "index.md"
 
   - 经验分享:
-    - "写在前面的话": "index.md"
+    - "写在前面的话": "index1.md"
     - "Chapter 1.志在大工": "经验分享/Chapter1.md"
     - "Chapter 2.学在大工": "经验分享/Chapter2.md"
     - "Chapter 3.活在大工": "经验分享/Chapter3.md"
@@ -152,7 +152,7 @@ nav:
 
   # fallback_to_build_date: true
   - 学习部分:
-    - 前言: "index1.md"  
+    - 前言: "index2.md"  
     - 如何使用这本书: "使用指南.md"
     - 一个仅供参考的AI学习规划: "CS学习规划.md"
     - 必学工具:
