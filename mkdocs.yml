@@ -226,9 +226,9 @@ nav:
     - 自然语言处理:
         - "CS224N": "自然语言处理/CS224N.md"
     - 机器人Robotics:
-        - "CS224N": "自然语言处理/CS224N.md"
+        - "CS224N": "Waiting.md"
     - 计算机视觉:
-        - "CS224N": "自然语言处理/CS224N.md"
+        - "CS224N": "Waiting.md"
     - 数据结构与算法:
         - "UCB CS61B: Data Structures and Algorithms": "数据结构与算法/CS61B.md"
         - "Coursera: Algorithms I & II": "数据结构与算法/Algo.md"
@@ -302,7 +302,11 @@ nav:
       - "MIT 6.007 Signals and Systems": "电子基础/Signals_and_Systems_AVO.md"
 
     - 后记: "后记.md"
-  
+  - 资料分享:
+    - 大一年级: "资料分享/1大一年级/1专业课程/course.md"
+      # - 其他 : "Waiting.md"
+    - 大二年级: "资料分享/2大二年级/1专业课程/course.md"
+    - 大三年级: "Waiting.md"
   - 更新日志: "TODOLIST.md"
       
 
