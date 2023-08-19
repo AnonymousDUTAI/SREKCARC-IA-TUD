@@ -76,7 +76,8 @@
 
 ### Speexx入学英语考试
 - 复习建议
-  - 正常记一记单词、保有一下词汇量就行
-  - 同时可以试一试四级练习题目练一练手
+  1. 正常记一记单词、保有一下词汇量就行
+  
+  2. 同时可以试一试四级练习题目练一练手
 - 参考资料
-  - 考试练习题：[下载地址](https://pan.baidu.com/s/1jLeIi9mHqL9hUCHgPtIOgA?pwd=ife5)
+  1. 考试练习题：[下载地址](https://pan.baidu.com/s/1jLeIi9mHqL9hUCHgPtIOgA?pwd=ife5)
