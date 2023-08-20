@@ -6,7 +6,7 @@
 - 学校教务
   - <figure markdown>
   ![Image title](./images/tele.png){ width="600" }
-</figure>
+  </figure>
 
 ##  4.2 重要的网站
 
@@ -59,10 +59,6 @@
 
 
 
-
-
-
-
 ##  4.3  PPT 材料
 
 - 大工模板：https://mp.weixin.qq.com/s/_tY4-rAXfivCSY25UV4pMA
@@ -89,6 +85,38 @@
 ###     4.4.4 视觉 SLAM-高翔
 
 ​    链接：https://pan.baidu.com/s/1Hke3z-8GeWEzx597FBGWyQ?pwd=ffff 
+
+
+
+## 4.5  公众号推荐
+
+> 此部分完全是按照自己平时的使用意愿进行关注，不含广 ಠ_ಠ
+
+### 4.5.1 大工类
+
+​	建议直接 查看此[推送](https://mp.weixin.qq.com/s/-b4HS6X5ISOcg80JQw9uWg)，包括大工各类平台官方公众号及各学部院系的公众号（未来技术除外哈哈，毕竟是前两年的）
+
+### 4.5.2 软件类
+
+> 这里推荐一手 大工正版软件平台，包括Adobe Office Windows等待，[正版软件管理与服务平台(大连理工大学) (dlut.edu.cn)](http://ms.dlut.edu.cn/)
+
+- 火耳软件安装
+- 软件管家
+
+### 4.5.3 保研类
+
+- 保研岛
+- 保研人
+
+### 4.5.4 IT信息类
+
+- 机器之心
+- 新智元
+- 量子位
+
+> 更专业的研究性方向需要自己去多多探索咯～
+
+
 
 
 <script src="https://giscus.app/client.js"
