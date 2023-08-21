@@ -14,7 +14,8 @@ theme:
   language: zh
   static_templates:
     - 404.html
-  # favicon: images/favicon2.ico
+  favicon: images/dute_favicon.ico
+  logo: images/logo.png
   apple-touch-icon-precomposed: images/demo.png
   include_search_page: false
   search_index_only: true
@@ -34,15 +35,16 @@ theme:
     - search.suggest
     # - toc.integrate
     - content.code.annotate
+    - announce.dismiss
 
   palette:
 
-    # Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
-      primary: blue
-      toggle:
-        icon: material/brightness-auto
-        name: Switch to light mode
+    # # Palette toggle for automatic mode
+    # - media: "(prefers-color-scheme)"
+    #   primary: 
+    #   toggle:
+    #     icon: material/brightness-auto
+    #     name: Switch to light mode
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -125,7 +127,7 @@ extra:
   generator: false
   version:
     provider: mike
-    
+    # https://github.com/squidfunk/mkdocs-material-example-versioning 版本迭代教程
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/AnonymousDUTAI/SREKCARC-IA-TUD
