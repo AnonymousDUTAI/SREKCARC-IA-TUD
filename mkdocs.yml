@@ -123,6 +123,7 @@ plugins:
   - minify:
       minify_html: true
 
+
 extra:
   generator: false
   version:
@@ -309,8 +310,8 @@ nav:
       # - 其他 : "Waiting.md"
     - 大二年级: "资料分享/2大二年级/1专业课程/course.md"
     - 大三年级: "Waiting.md"
-  - 更新日志: "TODOLIST.md"
-      
+
+  - 更新日志&讨论: "TODOLIST.md"
 
 
     
