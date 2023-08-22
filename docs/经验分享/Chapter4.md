@@ -72,7 +72,7 @@
 
 ###     4.4.1 机器人路径规划-高飞
 
-​    链接：https://pan.baidu.com/s/1DyPROf7JqjWyoC-a-tgi7A?pwd=ffff 
+​    链接：https://pan.baidu.com/s/1by0oEvOMsNTVGgpZaiJcsg?pwd=ffff
 
 ###     4.4.2 机器学习数学基础
 
@@ -80,12 +80,11 @@
 
 ###     4.4.3 ROS 学习（古月居）
 
-​    链接：https://pan.baidu.com/s/16OFVNHzyMuOAV4aqSp0DOQ?pwd=ffff 
+​    链接：https://pan.baidu.com/s/1UTT9FFqpp_Ubxex02OoI4g?pwd=vxx5
 
 ###     4.4.4 视觉 SLAM-高翔
 
-​    链接：https://pan.baidu.com/s/1Hke3z-8GeWEzx597FBGWyQ?pwd=ffff 
-
+​    链接：https://pan.baidu.com/s/1w9N8ZKVfSjJt6tb7JmbbPg?pwd=3yyh
 
 
 ## 4.5  公众号推荐
