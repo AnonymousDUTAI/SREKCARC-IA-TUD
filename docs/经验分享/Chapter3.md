@@ -498,8 +498,7 @@ ANS：与大连人工智能计算中心合作来上的课，基于华为Mindspor
 2. **科创比赛**
 
    > **2020 、 2021级的科创LIST**
-
-​	![img](./images/baoyanPolicy2020.png)
+    ![img](./images/baoyanPolicy2020.png)
 
 3. **奖学金**
 
