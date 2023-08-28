@@ -1,86 +1,128 @@
 <figure markdown>
   ![Image title](./images/title.png){ width="600" }
 </figure>
+# Chapter 0.写在前面的话
 
-# Foreword
+## 0.1 Docs 声明
 
-**The English version is still under development, please check [this issue](https://github.com/PKUFlyingPig/cs-self-learning/issues/222) if you want to contribute.**
+**声明**
 
-This is a self-learning guide to computer science, and a memento of my three years of self-learning at university.
+本 Docs 是数十位作者根据兴趣自发撰写完成，版权属于本书编委会。在本书撰写过程中，我们始终以“中立”和“公益”为原则，没有接受其他任何组织任何形式的支持。未经编委会许可，任何组织或个人不得违反相应的版权条例抄袭、转载、摘编、修改本书内容；不得将本书用于商业目的；不得对本 Docs 原意进行曲解、修改和未授权的大范围分发。本 Docs 是一部集合了二十多篇独立文章的作品集锦。每一小节均由不同作者撰写。在编写本 Docs 时，作者们听取了大量同学的意见和观点，并尽可地将各种观点统一在手册的框架下。这样做的目的，是希望能向读者传达更多可供参考的观点和意见。
 
-It is also a gift to the young students at Peking University. It would be a great encouragement and comfort to me if this book could be of even the slightest help to you in your college life.
+本 Docs 并不构成任何明确的行动建议，因此作者不承担由此产生的衍生责任。本 Docs 作者不能保证手册内容中没有对其他组织的误解和偏见。Docs 内容的正确性并没有经过权威审查，手册作者无法保证 Docs 中的方法始终有效。Docs 作者亦无力确认手册是否违反了读者所在地的各种法规，请各位读者参照当地行政规定。如有违反，请您停止阅读并立即销毁手册的任何副本。对于未经授权传播 Docs 而造成的各种问题，作者概不负责。手册作者无法确定手册内容是否会对读者身心健康产生不良影响。如果您未满 18 岁，或因阅读手册而产生不适，请立即停止阅读并咨询心理医生。
 
-The book is currently organized to include the following sections (if you have other good suggestions, or would like to join the ranks of contributors, please feel free to email [zhongyinmin@pku.edu.cn](mailto:zhongyinmin@pku.edu.cn) or ask questions in the issue).
+本书编委会欢迎接受您的指教。如果您对本书内容有任何问题、或建议，请联络我们：[falcary@foxmail.com](mailto:falcary@foxmail.com)）。我们并不保证回复每一封邮件，但是我们会认真接受并思考您的意见，并在后续版本中做出相应的改进。
 
-- Productivity Toolkit: IDE, VPN, StackOverflow, Git, Github, Vim, Latex, GNU Make and so on.
-- Environment configuration: PC/Server development environment setup, DevOps tutorials and so on.
-- Book recommendations: Those who have read the CSAPP must have realized the importance of good books. I will list links to books and resources in different areas of Computer Science that I find rewarding to read.
-- **List of high quality CS courses**: I will summarize all the high quality foreign CS courses I have taken into different categories and give relevant self-learning advice. Most of them will have a separate repository containing relevant resources as well as my homework/project implementations.
+本文协作地址是：[AI Lab of DUT](https://ujsosoymgz.feishu.cn/docx/LX8ldzcqCoB11GxCFDGcogFAnie?from=from_copylink)  
 
-## The place where dreams start —— CS61A
+## 0.2  Docs 序言
 
-In my freshman year, I was a novice who knew nothing about computers. I installed a giant IDE Visual Studio and fight with OJ every day. With my high school maths background, I did pretty well in maths courses, but I felt struggled to learn courses in my major. When it came to programming, all I could do was open up that clunky IDE, create a new project that I didn't know exactly what it was for, and then `cin`, `cout`, `for` loops, and then CE, RE, WA loops. I was in a state where I was desperately trying to learn well but I didn't know how to learn. I listened carefully in class but I couldn't solve the homework problems. I spent almost all my spare time doing the homework after class, but the results were disappointing. I still retain the source code of the project for Introduction to Computing course —— a single 1200-line C++ file with no header files, no class abstraction, no unit tests, no makefile, no version control. The only good thing is that it can run, the disadvantage is the complement of "can run". For a while I wondered if I wasn't cut out for computer science, as all my childhood imaginings of geekiness had been completely ruined by my first semester's experience.
+**序言 1** 
 
-It all turned around during the winter break of my freshman year, when I had a hankering to learn Python. I overheard someone recommend CS61A, a freshman introductory course at UC Berkeley on Python. I'll never forget that day, when I opened the [CS61A](https://cs61a.org/) course website. It was like Columbus discovering a new continent, and I opened the door to a new world.
+撰写此 docs 的想法💡来源于 Dalian - Shenzhen 的航班上，当时觉得有必要对大学阶段做一个总结，然后就直接开始构思如何写这篇 docs 了。
 
-I finished the course in 3 weeks and for the first time I felt that CS could be so fulfilling and interesting, and I was shocked that there existed such a great course in the world.
+本人于 2021 年的暑假误打误撞地选上了人工智能这个专业，当时的我近乎是抛弃了所有（我的所有好朋友几乎都选了其他专业，而且都搬走去了五舍）来到了这个我完全不熟悉的专业开始发展，刚开始我很迷茫和彷徨，因为我大一几乎没有接触过人工智能的任何东西，除了浅浅学会了 python，有着较高的绩点，其他比赛近乎一无所有。而大二阶段的我害怕落后于他人（特别是转专业过来的同学，真的很猛很优秀），基本上对自己做了很完善的规划，再加上我们是新的专业，没有像计算机、信通那样完善的学长学姐留下来的资源，所有考试基本上除了老师考前划重点其余的都是自己+同学们一起努力，所以我从那时起就开始下定决心，稳步前行。
 
-To avoid any suspicion of pandering to foreign courses, I will tell you about my experience of studying CS61A from the perspective of a pure student.
+撰写该 docs 的目的主要是为了让更多同学来了解大工 AI 的研究方向、学习方式和未来前景等等，旨在传递经验而非提供资源，存在较强的主观性，希望阅读者能够自行分辨并找到适合自己的路。
 
-- ***Course website developed by course staffs***: The course website integrates all the course resources into one, with a well organised course schedule, links to all slides, recorded videos and homework, detailed and clear syllabus, list of exams and solutions from previous years. Aesthetics aside, this website is so convenient for students.
+后续阶段，为了避免此文档具备”精英“效应，本人邀请了不同年级、不同成绩、不同专业、不同学院的朋友一同撰写，保证文档内容的详实性和专业性，很感谢他们对于本 docs 的贡献🎉，也很感谢磊哥、汤汤等等学长学姐和朋友们的帮助与支持，希望大工的 AI 和电类专业发展越来越好，也希望大家良性竞争、互帮互助，上岸梦校。
 
-- ***Textbook written by course instructor***: The course instructor has adapted the classic MIT textbook *Structure and Interpretation of Computer Programs* (SICP) into Python (the original textbook was based on Scheme). This is a great way to ensure that the classroom content is consistent with the textbook, while adding more details. The entire book is open source and can be read directly online.
+由于本文由多人协作，若内容侵犯到您的利益，烦请联系文末的联系方式删除，谢谢🙏如果你觉得本文对你有所帮助，请滑到文末帮忙点一个赞👍，谢谢捏～
 
-- ***Various, comprehensive and interesting homework***: There are 14 labs to reinforce the knowledge gained in class, 10 homework assignments to practice, and 4 projects each with thousands of lines of code, all with well-organized skeleton code and babysitting instructions. Unlike the old-school OJ and Word document assignments, each lab/homework/project has a detailed handout document, fully automated grading scripts, and CS61A staffs have even developed an [automated assignment submission and grading system](https://okpy.org/). Of course, one might say "How much can you learn from a project where most of code are written by your teaching assistants?" . For someone who is new to CS and even stumbling over installing Python, this well-developed skeleton code allows students to focus on reinforcing the core knowledge they've learned in class, but also gives them a sense of achievement that they already can make a little game despite of learning Python only for a month. It also gives them the opportunity to read and learn from other people's high quality code so that they can reuse it later. I think in the freshman year, this kind of skeleton code is absolutely beneficial. The only bad thing perhaps is for the instructors and teaching assistants, as developing such assignments can conceivably require a considerable time commitment.
+**序言 2**
 
-- ***Weekly discussion sessions***: The teaching assistants will explain the difficult knowledge in class and add some supplementary materials which may not be covered in class. Also, there will be exercises from exams of previous years. All the exercises are written in LaTeX with solutions.
+在大连理工大学的三年生活中，我目睹和经历了太多的荒谬，太多的错误，太多的茫然，太多的无奈，太多的失败，每个人成功的背后隐藏着日日夜夜的付出和折磨。自诩为天之骄子的高中毕业生，站在大学的门槛上，有时竟会显得像低龄儿童一样幼稚。年轻的同学们还为自己那充满无限可能的青春而沾沾自喜，却不曾意识到，一生仅此一张的白纸，绝不可以随意地涂抹。本书希望能为同学们树立正确的人生观和价值观，并在具体政策上，提供各种切实可行的建议，帮助同学里那一部分有志青年完善自我，实现内心的追求。回首四年大学时光，我一直保有一种强烈的对科学知识的虔诚。这份虔诚迫使我重新思考每天那本应“司空见惯”的生活，这份虔诚让我站出来，以我认为正确的方式贯彻自己的追求。
 
-In CS61A, You don't need any prerequesites about CS at all. You just need to pay attention, spend time and work hard. The feeling that you do not know what to do, that you are not getting anything in return for all the time you put in, is gone. It suited me so well that I fell in love with self-learning.
+> *学会敬畏，学会谦卑，学会平和而执着、谦虚而无畏！*
 
-Imagine that if someone could chew up the hard knowledge and present it to you in a vivid and straightforward way, with so many fancy and varied projects to reinforce your theoretical knowledge, you'd think they were really trying their best to make you fully grasp the course, and it was even an insult to the course builders not to learn it well.
+在此，我与伙伴们把我们这三年和生活斗争的点点滴滴的经验和感悟记录下来，一方面，我希望我能为那些像我一样压抑中的灵魂尽一点义务。另一方面，也希望这本书本身，能成为推动各种不合理制度进步的一种动力。
 
-If you think I'm exaggerating, start with [CS61A](https://cs61a.org/), because it's where my dreams began.
+现实总是令人遗憾的。我们当中太多人已经习惯于沿着那一成不变的“典型成功道路”前进：中考，高考，考研，出国......埋头赶路。走在前面的已然迷失，跟在后面的却还未开始思考。这不应该是一个国家、一个时代的精神。
 
-## Why write this book?
+这本书不是《逃课手册》或者《考前突击宝典》，更多的像是一本《经验汇总大全》。我希望帮助各位读者做到的，绝不是简单的拿高分、或者顺利毕业。我衷心希望希望这本书能够带给读者一些新鲜的思考，让同学们能看到人生道路上不同的风景，让整个专业的同学都是为了自己理想和目标而奋斗。至少在读过本书之后，各位读者应该能够有勇气、有智慧，去发现并挑战那些比上课、考高分、争奖学金更为重要的追求。
 
-In the 2020 Fall semester, I worked as a teaching assistant for the class Introduction to Computer Systems at Peking University. At that time, I had been studying totally on my own for over a year. I enjoyed this style of learning immensely. To share this joy, I have made a [CS Self-learning Materials List](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) for students in my seminar. It was purely on a whim at the time, as I wouldn't dare to encourage my students to skip classes and study on their own.
+**序言 3**
 
-But after another year of maintenance, the list has become quite comprehensive, covering most of the courses in Computer Science, Artificial Intelligence and Soft Engineering, and I have built separate repositories for each course, summarising the self-learning materials that I used.
+在将网站建设的过程中参考了很多高校如北大、清华、上交、浙大、科大等学生自营网站的经验，很感谢贡献者的辛苦付出，但我不禁陷入沉思，每个学校或多或少都有一些经验分享的开源仓库，但是大工这边却少得可怜。在大工，我对于分享这件事总是畏首畏脚的，虽然我在心中总是不断说服自己：“敢于分享不是一种实力的象征，而是一种勇气的证明”。因为我怕我的分享在别人看来是在炫耀，向他人传递不同的价值观也不一定正确。不过，我终究还是将这个文档完成了近80%并将其开源，希望能够在一定程度上帮助学弟学妹们超越自己的年龄层看事情，而我也希望未来的AI人能够积极分享自己的各种经历经验，少花点时间在专业课的考试、实验课的报告上“勾心斗角”，多和身边的人真诚交流，一定要相信“一起走就走得更远”这个道理，真正做到平和而执着、谦虚而无畏！
 
-In my last college year, when I opened up my curriculum book, I realized that it was already a subset of my self-learning list. By then, it was only two and a half years after I had started my self-learning journey. Then, a bold idea came to my mind: perhaps I could create a self-learning book, write down the difficulty I encountered and the interest I found during these years of self-learning, hoping to make it easy for students who may also enjoy self-learning to start their wonderful self-learning journey.
+**⚠️ 注意：**
 
-If you can build up the whole CS foundation in less than three years, have relatively solid mathematical skills and coding ability, experience dozens of projects with thousands of lines of code, master at least C/C++/Java/JS/Python/Go/Rust and other mainstream programming languages, have a good understanding of algorithms, circuits, architectures, networks, operating systems, compilers, artificial intelligence, machine learning, computer vision, natural language processing, reinforcement learning, cryptography, information theory, game theory, numerical analysis, statistics, distributed systems, parallel computing, database systems, computer graphics, web development, cloud computing, supercomputing etc. I think you will be confident enough to choose the area you are interested in, and you will be quite competitive in both industry and academia.
+本文偏向于**电类或AI专业**的理解和解读，希望不同专业的同学可以从中获取自己所需的一部分信息。
 
-I firmly believe that if you have read to this line, you do not lack the ability and committment to learn CS well, you just need a good teacher to teach you a good course. And I will try my best to pick such courses for you, based on my three years of experience.
+## 03.这本书适合谁
 
-## Pros
+任何有志于自学计算机和人工智能的朋友都可以参考这本书，如果你已经有了一定的计算机和人工智能基础，只是对某个特定的领域感兴趣，可以选择性地挑选你感兴趣的内容进行学习。当然，如果你是一个像我当年一样对计算机一无所知的小白，初入大学的校门，我希望这本书能成为你的攻略，让你花最少的时间掌握你所需要的知识和能力。某种程度上，这本书更像是一个根据我的体验来排序的课程搜索引擎，帮助大家足不出户，体验世界顶级名校的计算机和AI的优质课程。
 
-For me, the biggest advantage of self-learning is that I can adjust the pace of learning entirely according to my own progress. For difficult parts, I can watch the videos over and over again, Google it online and ask questions on StackOverflow until I have it all figured out. For those that I mastered relatively quickly, I could skip them at twice or even three times the speed.
+当然，作为一个还未毕业的本科生，我深感自己没有能力也没有权利去宣扬一种学习方式，我只是希望这份资料能让那些同样有自学之心和毅力朋友可以少走些弯路，收获更丰富、更多样、更满足的学习体验。
 
-Another great thing about self-learning is that you can learn from different perspectives. I have taken core courses such as architectures, networking, operating systems, and compilers from different universities. Different instructors may have different views on the same knowledge, which will broaden your horizon.
+同时，在本书的中还会分享关于大工电类专业历年的学习经验分享（包括考研、保研等）、也会有一些活动的简单介绍，旨在帮助萌新小朋友们尽快适应大学生活，希望能对有缘的你有所帮助。
 
-A third advantage of self-learning is that you do not need to go to the class, listening to the boring lectures.
 
-## Cons
 
-Of course, as a big fan of self-learning, I have to admit that it has its disadvantages.
+## 04.你也想加入到贡献者的行列
 
-The first is the difficulty of communication. I'm actually a very keen questioner, and I like to follow up all the points I don't understand. But when you're facing a screen and you hear a teacher talking about something you don't understand, you can't go to the other end of the network and ask him or her for clarification. I try to mitigate this by thinking independently and making good use of Google, but it would be great to have a few friends to study together. You can refer to `README` for more information on participating a community group.
+一个人的力量终究是有限的，这本书也是我在繁重的科研之余熬夜抽空写出来的，难免有不够完善之处。另外，由于个人做的是系统方向，很多课程侧重系统领域，对于数学、理论计算机、高级算法相关的内容则相对少些。如果有大佬想在其他领域分享自己的自学经历与资源，可以直接在项目中发起 Pull Request，也欢迎和我邮件联系（[falcary@foxmail.com](mailto:falcary@foxmail.com)）。如果**半年以内（2024.02之前）**并没有足够的管理人员联系作者进行文档运营和维护，本人将放弃续约该域名，望理解。
 
-The second thing is that these courses are basically in English. From the videos to the slides to the assignments, all in English. You may struggle at first, but I think it's a challenge that if you overcome, it will be extremely rewarding. Because at the moment, as reluctant as I am, I have to admit that in computer science, a lot of high quality documentation, forums and websites are all in English.
+## 05.特别鸣谢
 
-The third, and I think the most difficult one, is self-discipline. Because have no DDL can sometimes be a really scary thing, especially when you get deeper, many foreign courses are quite difficult. You have to be self-driven enough to force yourself to settle down, read dozens of pages of Project Handout, understand thousands of lines of skeleton code and endure hours of debugging time. With no credits, no grades, no teachers, no classmates, just one belief - that you are getting better.
+特别感谢参与此docs写作的**所有朋友**们，感谢**北大信科某位伟大的学长**的开源分享，也真诚地感谢所有将课程资源无偿开源的各位老师们。这些课程倾注了他们数十年教学生涯的积淀和心血，他们却选择无私地让所有人享受到如此高质量的CS+AI教育。没有他们，我的大学生活不会这样充实而快乐。
 
-## Who is this book for?
+我希望任何阅读此书的人都可以对大工、任课教师、往届学长学姐们存有感激之心，没有他们的帮助是绝不可能完成这个docs的。同时，我也希望使用此书的人，**保持谦卑、不浮躁、不自私自傲、互帮互助**，祝好！
 
-As I said in the beginning, anyone who is interested in learning computer science on their own can refer to this book. If you already have some basic skills and are just interested in a particular area, you can selectively pick and choose what you are interested in to study. Of course, if you are a novice who knows nothing about computers like I did back then, and just begin your college journey, I hope this book will be your cheat sheet to get the knowledge and skills you need in the least amount of time. In a way, this book is more like a course search engine ordered according to my experience, helping you to learn high quality CS courses from the world's top universities without leaving home.
+## 06.请作者喝杯下午茶
 
-Of course, as an undergraduate student who has not yet graduated, I feel that I am not in a position nor have the right to preach one way of learning. I just hope that this material will help those who are also self-motivated and persistent to gain a richer, more varied and satisfying college life.
+本书的内容是完全开源免费的，如果你觉得该项目对你真的有帮助，可以给仓库点个 star 或者请作者喝一杯下午茶。
 
-## Special thanks
+![Image title](./images/PAYMENT.png)
 
-I would like to express my sincere gratitude to all the professors who have made their courses public for free. These courses are the culmination of decades of their teaching careers, and they have chosen to selflessly make such a high quality CS education available to all. Without them, my university life would not have been as fulfilling and enjoyable. Many of the professors would even reply with hundreds of words in length after I had sent them a thank you email, which really touched me beyond words. They also inspired me all the time that if decide to do something, do it with all heart and soul.
+------
 
-## Want to join as a contributor?
+<script src="https://giscus.app/client.js"
+        data-repo="AnonymousDUTAI/SREKCARC-IA-TUD"
+        data-repo-id="R_kgDOKG3dKg"
+        data-category="General"
+        data-category-id="DIC_kwDOKG3dKs4CYmFw"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
 
-There is a limit to how much one person can do, and this book was written by me under a heavy research schedule, so there are inevitably imperfections. In addition, as I work in the area of systems, many of the courses focus on systems, and there is relatively little content related to advanced mathematics, computing theory, and advanced algorithms. If any of you would like to share your self-learning experience and resources in other areas, you can directly initiate a Pull Request in the project, or feel free to contact me by email ([zhongyinmin@pku.edu.cn](mailto:zhongyinmin@pku.edu.cn)).
+<script>
+    var palette = __get("__palette")
+    if (palette && typeof palette.color === "object") {
+        if (palette.color.scheme === "slate") {
+            const giscus = document.querySelector("script[src*=giscus]")
+            giscus.setAttribute("data-theme", "dark_protanopia")
+        }
+    }
+
+    document.addEventListener("DOMContentLoaded", function () {
+        const ref = document.querySelector("[data-md-component=palette]")
+        ref.addEventListener("change", function () {
+            var palette = __get("__palette")
+            if (palette && typeof palette.color === "object") {
+                const theme = palette.color.scheme === "slate" ? "dark_protanopia" : "light_protanopia"
+                const frame = document.querySelector(".giscus-frame")
+                frame.contentWindow.postMessage({
+                    giscus: { setConfig: { theme } }
+                }, "https://giscus.app")
+            }
+        })
+    })
+</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WKNQN4V76J"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-WKNQN4V76J');
+</script>
