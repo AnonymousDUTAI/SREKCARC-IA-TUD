@@ -1,77 +1,77 @@
 <figure markdown>
   ![Image title](./images/title.png){ width="600" }
 </figure>
-# Chapter 0.写在前面的话
+# Chapter 0. Write the words before
 
-## 0.1 Docs 声明
+## 0.1 Docs statement
 
-**声明**
+** Statement **
 
-本 Docs 是数十位作者根据兴趣自发撰写完成，版权属于本书编委会。在本书撰写过程中，我们始终以“中立”和“公益”为原则，没有接受其他任何组织任何形式的支持。未经编委会许可，任何组织或个人不得违反相应的版权条例抄袭、转载、摘编、修改本书内容；不得将本书用于商业目的；不得对本 Docs 原意进行曲解、修改和未授权的大范围分发。本 Docs 是一部集合了二十多篇独立文章的作品集锦。每一小节均由不同作者撰写。在编写本 Docs 时，作者们听取了大量同学的意见和观点，并尽可地将各种观点统一在手册的框架下。这样做的目的，是希望能向读者传达更多可供参考的观点和意见。
+This Docs was written by dozens of authors of interest, and the copyright belongs to the editorial board. In the process of writing this book, we have always been based on the principles of "neutrality" and "public benefit" and have not accepted any form of support from any other organization. Without the permission of the editorial Board, no organization or individual shall copy, reproduce, extract or modify the contents of this book in violation of the relevant copyright regulations; This book may not be used for commercial purposes; The original intent of this document may not be misinterpreted, modified or distributed widely without authorization. This Docs is a collection of more than twenty separate articles. Each section is written by a different author. In preparing the Docs, the authors listened to a large number of students' opinions and ideas, and tried their best to unify the various ideas under the framework of the manual. The purpose of this is to convey more ideas and opinions to readers for reference.
 
-本 Docs 并不构成任何明确的行动建议，因此作者不承担由此产生的衍生责任。本 Docs 作者不能保证手册内容中没有对其他组织的误解和偏见。Docs 内容的正确性并没有经过权威审查，手册作者无法保证 Docs 中的方法始终有效。Docs 作者亦无力确认手册是否违反了读者所在地的各种法规，请各位读者参照当地行政规定。如有违反，请您停止阅读并立即销毁手册的任何副本。对于未经授权传播 Docs 而造成的各种问题，作者概不负责。手册作者无法确定手册内容是否会对读者身心健康产生不良影响。如果您未满 18 岁，或因阅读手册而产生不适，请立即停止阅读并咨询心理医生。
+This Docs does not constitute any express recommendation for action and therefore the author does not accept any liability derived therefrom. The authors of this Docs cannot guarantee that the content of the manual is free from misunderstandings and bias towards other organizations. The content of Docs has not been reviewed for correctness and the manual author cannot guarantee that the methods in Docs will always work. The author of Docs is also unable to confirm whether the manual violates the various laws and regulations of the reader's locality, and readers are referred to local administrative regulations. In case of violation, please stop reading and immediately destroy any copies of the manual. The author is not responsible for any problems caused by the unauthorized dissemination of Docs. The author of the manual cannot determine whether the contents of the manual will have an adverse effect on the physical and mental health of the reader. If you are under the age of 18 or experience discomfort from reading the manual, stop reading it immediately and consult a psychologist.
 
-本书编委会欢迎接受您的指教。如果您对本书内容有任何问题、或建议，请联络我们：[falcary@foxmail.com](mailto:falcary@foxmail.com)）。我们并不保证回复每一封邮件，但是我们会认真接受并思考您的意见，并在后续版本中做出相应的改进。
+The editorial board of this book welcomes your advice. If you have any questions or comments regarding the contents of this book, please contact us at [falcary@foxmail.com](mailto:falcary@foxmail.com). We do not guarantee to respond to every email, but we will carefully accept and consider your comments and make improvements in subsequent versions.
 
-本文协作地址是：[AI Lab of DUT](https://ujsosoymgz.feishu.cn/docx/LX8ldzcqCoB11GxCFDGcogFAnie?from=from_copylink)  
+This collaboration address is: [AI Lab of DUT] (https://ujsosoymgz.feishu.cn/docx/LX8ldzcqCoB11GxCFDGcogFAnie?from=from_copylink)
 
-## 0.2  Docs 序言
+## 0.2 Docs Preamble
 
-**序言 1** 
+** Preface 1**
 
-撰写此 docs 的想法💡来源于 Dalian - Shenzhen 的航班上，当时觉得有必要对大学阶段做一个总结，然后就直接开始构思如何写这篇 docs 了。
+The idea of writing this docs 💡 came from the flight from Dalian to Shenzhen. At that time, I thought it was necessary to make a summary of my university years, and then I directly started thinking about how to write this docs.
 
-本人于 2021 年的暑假误打误撞地选上了人工智能这个专业，当时的我近乎是抛弃了所有（我的所有好朋友几乎都选了其他专业，而且都搬走去了五舍）来到了这个我完全不熟悉的专业开始发展，刚开始我很迷茫和彷徨，因为我大一几乎没有接触过人工智能的任何东西，除了浅浅学会了 python，有着较高的绩点，其他比赛近乎一无所有。而大二阶段的我害怕落后于他人（特别是转专业过来的同学，真的很猛很优秀），基本上对自己做了很完善的规划，再加上我们是新的专业，没有像计算机、信通那样完善的学长学姐留下来的资源，所有考试基本上除了老师考前划重点其余的都是自己+同学们一起努力，所以我从那时起就开始下定决心，稳步前行。
+I accidentally chose the major of artificial intelligence in the summer vacation of 2021. At that time, I almost abandoned all of them (almost all my good friends chose other majors and moved away to five houses) and came to this major that I was completely unfamiliar with and began to develop. At the beginning, I was very confused and confused. Because I had almost no contact with anything in artificial intelligence in my freshman year, except for learning python in a shallow way and having a high GPA, I had almost nothing in other competitions. In my sophomore year, I was afraid of falling behind others (especially the students who changed their major, who were really fierce and excellent), and basically made a perfect plan for myself. In addition, we are a new major, and there are no resources left by seniors and seniors like computers and information and communication. Basically, all the exams except the key points of the teacher's exam, the rest are made by myself and students together. So that's when I started making up my mind and moving forward.
 
-撰写该 docs 的目的主要是为了让更多同学来了解大工 AI 的研究方向、学习方式和未来前景等等，旨在传递经验而非提供资源，存在较强的主观性，希望阅读者能够自行分辨并找到适合自己的路。
+The purpose of writing this docs is mainly to let more students understand the research direction, learning style and future prospects of Dagong AI, etc., aiming at passing on experience rather than providing resources, there is a strong subjectivity, I hope readers can distinguish and find their own way.
 
-后续阶段，为了避免此文档具备”精英“效应，本人邀请了不同年级、不同成绩、不同专业、不同学院的朋友一同撰写，保证文档内容的详实性和专业性，很感谢他们对于本 docs 的贡献🎉，也很感谢磊哥、汤汤等等学长学姐和朋友们的帮助与支持，希望大工的 AI 和电类专业发展越来越好，也希望大家良性竞争、互帮互助，上岸梦校。
+In the subsequent stage, in order to avoid the "elite" effect of this document, I invited friends from different grades, different grades, different majors and different colleges to write together to ensure the details and professionalism of the document content. Thank them very much for their contribution to this docs 🎉, and also thank Lei Brother, Tang Tang and other seniors and friends for their help and support. I hope that the AI and electrical professional development of the university is getting better and better, and I also hope that everyone can compete healthily and help each other.
 
-由于本文由多人协作，若内容侵犯到您的利益，烦请联系文末的联系方式删除，谢谢🙏如果你觉得本文对你有所帮助，请滑到文末帮忙点一个赞👍，谢谢捏～
+Since this article is coordinated by many people, if the content infringes on your interests, please delete the contact information at the end of the article, thank you 🙏 if you think this article is helpful to you, please slide to the end of the article and click a "like" 👍, thank you
 
-**序言 2**
+** Preface 2**
 
-在大连理工大学的三年生活中，我目睹和经历了太多的荒谬，太多的错误，太多的茫然，太多的无奈，太多的失败，每个人成功的背后隐藏着日日夜夜的付出和折磨。自诩为天之骄子的高中毕业生，站在大学的门槛上，有时竟会显得像低龄儿童一样幼稚。年轻的同学们还为自己那充满无限可能的青春而沾沾自喜，却不曾意识到，一生仅此一张的白纸，绝不可以随意地涂抹。本书希望能为同学们树立正确的人生观和价值观，并在具体政策上，提供各种切实可行的建议，帮助同学里那一部分有志青年完善自我，实现内心的追求。回首四年大学时光，我一直保有一种强烈的对科学知识的虔诚。这份虔诚迫使我重新思考每天那本应“司空见惯”的生活，这份虔诚让我站出来，以我认为正确的方式贯彻自己的追求。
+In the three years of life in Dalian University of Technology, I witnessed and experienced too much absurdity, too many mistakes, too much confusion, too much helplessness, too much failure, behind everyone's success hidden day and night pay and torture. High school graduates who think they are the favored ones of God, standing on the threshold of college, can sometimes appear as naive as young children. The young students are also proud of their youth, which is full of infinite possibilities, but they have not realized that the only white paper in life can not be daubed at will. This book hopes to set up a correct outlook on life and values for students, and provide practical suggestions on specific policies to help those aspiring young students improve themselves and realize their inner pursuits. Looking back on my four years in college, I have always retained a strong devotion to scientific knowledge. This piety forced me to rethink what was supposed to be "normal" everyday life, and this piety forced me to stand up and pursue what I thought was right.
 
-> *学会敬畏，学会谦卑，学会平和而执着、谦虚而无畏！*
+> * Learn to fear, learn to be humble, learn to be peaceful and persistent, modest and fearless! *
 
-在此，我与伙伴们把我们这三年和生活斗争的点点滴滴的经验和感悟记录下来，一方面，我希望我能为那些像我一样压抑中的灵魂尽一点义务。另一方面，也希望这本书本身，能成为推动各种不合理制度进步的一种动力。
+Here, my partners and I have recorded our three years and life struggle bit by bit experience and sentiment, on the one hand, I hope I can do some duty for those who like me in the depression of the soul. On the other hand, I also hope that this book itself can become a driving force to promote the progress of various unreasonable systems.
 
-现实总是令人遗憾的。我们当中太多人已经习惯于沿着那一成不变的“典型成功道路”前进：中考，高考，考研，出国......埋头赶路。走在前面的已然迷失，跟在后面的却还未开始思考。这不应该是一个国家、一个时代的精神。
+Reality is always a pity. Too many of us have gotten used to following the same "typical path to success" : high school entrance examination, college entrance examination, postgraduate entrance examination, going abroad...... Bury your head in the road. Those who walk in front are lost, those who follow behind have not yet begun to think. This should not be the spirit of a country or an era.
 
-这本书不是《逃课手册》或者《考前突击宝典》，更多的像是一本《经验汇总大全》。我希望帮助各位读者做到的，绝不是简单的拿高分、或者顺利毕业。我衷心希望希望这本书能够带给读者一些新鲜的思考，让同学们能看到人生道路上不同的风景，让整个专业的同学都是为了自己理想和目标而奋斗。至少在读过本书之后，各位读者应该能够有勇气、有智慧，去发现并挑战那些比上课、考高分、争奖学金更为重要的追求。
+This book is not a "Skipping class handbook" or a "pre-exam shock book", more like a "summary of experience". What I hope to help you do is not simply to get high grades or graduate. I sincerely hope that this book can bring readers some fresh thinking, so that students can see a different scenery on the road of life, so that the students of the whole major are struggling for their own ideals and goals. After reading this book, at least, you should have the courage and wisdom to find and challenge pursuits that are more important than taking classes, getting good grades, or winning scholarships.
 
-**序言 3**
+** Preface 3**
 
-在将网站建设的过程中参考了很多高校如北大、清华、上交、浙大、科大等学生自营网站的经验，很感谢贡献者的辛苦付出，但我不禁陷入沉思，每个学校或多或少都有一些经验分享的开源仓库，但是大工这边却少得可怜。在大工，我对于分享这件事总是畏首畏脚的，虽然我在心中总是不断说服自己：“敢于分享不是一种实力的象征，而是一种勇气的证明”。因为我怕我的分享在别人看来是在炫耀，向他人传递不同的价值观也不一定正确。不过，我终究还是将这个文档完成了近80%并将其开源，希望能够在一定程度上帮助学弟学妹们超越自己的年龄层看事情，而我也希望未来的AI人能够积极分享自己的各种经历经验，少花点时间在专业课的考试、实验课的报告上“勾心斗角”，多和身边的人真诚交流，一定要相信“一起走就走得更远”这个道理，真正做到平和而执着、谦虚而无畏！
+In the process of website construction, I referred to the experience of many universities such as Peking University, Tsinghua University, Jiao Tong University, Zhejiang University, University of Science and Technology and other student-run websites, thank you for the hard work of contributors, but I can't help but fall into a deep thought, each school more or less has some open source warehouses for sharing experience, but there are very few on the Dagong side. In Dagong, I was always afraid of sharing, although I always convinced myself in my mind that "daring to share is not a sign of strength, but a proof of courage." Because I am afraid that my sharing will be seen as showing off by others, and it is not necessarily right to convey different values to others. However, after all, I completed nearly 80% of this document and open source it, hoping to help students to see things beyond their own age to a certain extent, and I also hope that future AI people can actively share their various experiences, spend less time in the professional course exam, laboratory class report "intriguing", and more sincere communication with people around. We must believe that "go together, go further" this truth, truly peaceful and persistent, modest and fearless!
 
-**⚠️ 注意：**
+**⚠️ Note: **
 
-本文偏向于**电类或AI专业**的理解和解读，希望不同专业的同学可以从中获取自己所需的一部分信息。
+This paper is biased towards the understanding and interpretation of electrical or AI majors, hoping that students of different majors can obtain part of the information they need from it.
 
-## 03.这本书适合谁
+Who is this book for
 
-任何有志于自学计算机和人工智能的朋友都可以参考这本书，如果你已经有了一定的计算机和人工智能基础，只是对某个特定的领域感兴趣，可以选择性地挑选你感兴趣的内容进行学习。当然，如果你是一个像我当年一样对计算机一无所知的小白，初入大学的校门，我希望这本书能成为你的攻略，让你花最少的时间掌握你所需要的知识和能力。某种程度上，这本书更像是一个根据我的体验来排序的课程搜索引擎，帮助大家足不出户，体验世界顶级名校的计算机和AI的优质课程。
+Any friend who is interested in self-learning computer and artificial intelligence can refer to this book, if you already have a certain computer and artificial intelligence foundation, just interested in a specific field, you can selectively choose the content you are interested in learning. Of course, if you are a little white who knows nothing about computers like me, and just entered the university, I hope this book can be your guideline, so that you can spend the least time to master the knowledge and ability you need. To some extent, this book is more like a course search engine sorted according to my experience, helping everyone stay at home to experience the world's top schools of computer and AI quality courses.
 
-当然，作为一个还未毕业的本科生，我深感自己没有能力也没有权利去宣扬一种学习方式，我只是希望这份资料能让那些同样有自学之心和毅力朋友可以少走些弯路，收获更丰富、更多样、更满足的学习体验。
+Of course, as an undergraduate who has not yet graduated, I feel that I do not have the ability or the right to promote a way of learning. I just hope that this material can help those friends who have the heart and perseverance of self-learning to take fewer detours and gain a richer, more diverse and more satisfying learning experience.
 
-同时，在本书的中还会分享关于大工电类专业历年的学习经验分享（包括考研、保研等）、也会有一些活动的简单介绍，旨在帮助萌新小朋友们尽快适应大学生活，希望能对有缘的你有所帮助。
+At the same time, this book will also share the learning experience of major industrial and electrical majors over the years (including postgraduate entrance examination, postgraduate qualification, etc.), and there will also be a brief introduction of some activities, aimed at helping new children adapt to college life as soon as possible, I hope it will be helpful to you.
 
 
 
-## 04.你也想加入到贡献者的行列
+## 04. You also want to join the ranks of contributors
 
-一个人的力量终究是有限的，这本书也是我在繁重的科研之余熬夜抽空写出来的，难免有不够完善之处。另外，由于个人做的是系统方向，很多课程侧重系统领域，对于数学、理论计算机、高级算法相关的内容则相对少些。如果有大佬想在其他领域分享自己的自学经历与资源，可以直接在项目中发起 Pull Request，也欢迎和我邮件联系（[falcary@foxmail.com](mailto:falcary@foxmail.com)）。如果**半年以内（2024.02之前）**并没有足够的管理人员联系作者进行文档运营和维护，本人将放弃续约该域名，望理解。
+After all, the power of a person is limited, and this book was written by me in the spare time of heavy scientific research, so it is inevitable that there are some imperfections. In addition, because the individual is doing the system direction, many courses focus on the system field, for mathematics, theoretical computers, advanced algorithms related content is relatively less. If you want to share your self-study experience and resources in other fields, you can directly launch a Pull Request in the project, and you are also welcome to contact me via email ([falcary@foxmail.com](mailto:falcary@foxmail.com)). If there are not enough managers to contact the author for document operation and maintenance within six months (before 2024.02), I will give up the renewal of this domain name.
 
-## 05.特别鸣谢
+## 05. Special thanks
 
-特别感谢参与此docs写作的**所有朋友**们，感谢**北大信科某位伟大的学长**的开源分享，也真诚地感谢所有将课程资源无偿开源的各位老师们。这些课程倾注了他们数十年教学生涯的积淀和心血，他们却选择无私地让所有人享受到如此高质量的CS+AI教育。没有他们，我的大学生活不会这样充实而快乐。
+Special thanks to all the friends ** who participated in the writing of this docs, thanks to a great senior ** of Peking University Information Science Department ** for sharing the open source, and sincerely thanks to all the teachers who open source the course resources for free. These courses have invested their decades of teaching career accumulation and effort, but they have chosen to selflessly make such a high quality CS+AI education available to everyone. Without them, my college life would not be so full and happy.
 
-我希望任何阅读此书的人都可以对大工、任课教师、往届学长学姐们存有感激之心，没有他们的帮助是绝不可能完成这个docs的。同时，我也希望使用此书的人，**保持谦卑、不浮躁、不自私自傲、互帮互助**，祝好！
+I hope that anyone reading this book will be grateful to the engineers, teachers, and former students without whose help it would not have been possible to complete the docs. At the same time, I also hope that the people who use this book, ** stay humble, not impetuous, not selfish and proud, and help each other **, good luck!
 
-## 06.请作者喝杯下午茶
+Invite the author to a cup of afternoon tea
 
-本书的内容是完全开源免费的，如果你觉得该项目对你真的有帮助，可以给仓库点个 star 或者请作者喝一杯下午茶。
+The content of this book is completely open source and free, if you feel that the project is really helpful to you, you can order the warehouse star or invite the author to have a cup of afternoon tea.
 
 ![Image title](./images/PAYMENT.png)
 
