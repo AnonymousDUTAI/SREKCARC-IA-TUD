@@ -504,7 +504,6 @@ CS+EE+自动化+电气保研方案  [文件下载地址](https://pan.baidu.com/s
    > ![img](./images/baoyanPolicy2020.png)
 
 **2022级的科创LIST（电信学部，不同学院应该有细微差别，请仔细核对）**
-
 <p align="center">表1 科技创新类推荐竞赛列表</p>
 
 | 序号 | 竞赛名称                                                     | 级别 | 序号 | 竞赛名称                                                     | 级别 |
@@ -558,6 +557,7 @@ CS+EE+自动化+电气保研方案  [文件下载地址](https://pan.baidu.com/s
 [详细分析尚未统计完]
 
 ![img](./images/baoyanKechuang.jpg)
+
 
 **3.奖学金**
 
