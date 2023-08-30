@@ -37,8 +37,6 @@
 
 **[Vim](必学工具/Vim.md)：**一款命令行编辑工具。这是一个学习曲线有些陡峭的编辑器，不过学会它我觉得是非常有必要的，因为它将极大地提高你的开发效率。现在绝大多数 IDE 也都支持 Vim 插件，让你在享受现代开发环境的同时保留极客的炫酷（yue）。
 
-**[Emacs](必学工具/Emacs.md)：**与 Vim 齐名的经典编辑器，同样具有极高的开发效率，同时具有更为强大的扩展性，它既可以配置为一个轻量编辑器，也可以扩展成一个个人定制的 IDE，甚至可以有更多奇技淫巧。
-
 **[Git](必学工具/Git.md)：**一款代码版本控制工具。Git的学习曲线可能更为陡峭，但出自 Linux 之父 Linus 之手的 Git 绝对是每个学 CS 的童鞋必须掌握的神器之一。
 
 **[GitHub](必学工具/GitHub.md)：**基于 Git 的代码托管平台。全世界最大的代码开源社区，大佬集聚地。
@@ -55,7 +53,7 @@
 
 **[Thesis](必学工具/thesis.md)：**毕业论文 Word 写作教程。
 
-[**Zlibrary**](https://singlelogin.re/)：超级棒的电子书下载网站，不过需要科学上网哦～
+**[Zlibrary](https://singlelogin.re/)**：超级棒的电子书下载网站，不过需要科学上网哦～
 
 
 
@@ -64,9 +62,7 @@
 - 大工模板：https://mp.weixin.qq.com/s/_tY4-rAXfivCSY25UV4pMA
 - Office 官网：https://www.officeplus.cn/
 - 保研+考研 复试 PPT 模板 🈲️外传
-  - 链接： https://pan.baidu.com/s/1VLrToFsiIcnSxGjP1qp3tw?pwd=ffff 提取码： ffff 
-  - 文件框架
-  - ![img](https://ujsosoymgz.feishu.cn/space/api/box/stream/download/asynccode/?code=OWZmNmZmZTM3MWE0NzIzYzA1OGQ0NjIxMjEwYzZhMTZfTzhJcFF3RlkzdXZ1Qm1HdlNZdWpMNVo2UzJrcUV3S1lfVG9rZW46U2lFb2JrVXRQb1hQOVd4eWVNOGNjYTFzbnNnXzE2OTIxNTI0ODk6MTY5MjE1NjA4OV9WNA)
+  - [链接](https://pan.baidu.com/s/1VLrToFsiIcnSxGjP1qp3tw?pwd=ffff)
 
 ##    4.4 购买课程
 
