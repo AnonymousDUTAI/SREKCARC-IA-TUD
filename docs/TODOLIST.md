@@ -17,22 +17,22 @@
     - 欢迎有责任心、热心 or 熟练掌握前端开发 or 熟悉git协作 的朋友联系[作者](mailto:falcary@foxmail.com)
 
 ## ✅最近更新 Beta1.2.17 09.07
-1. 更新转专业同学的相关经历与建议，于 **Chapter2-2.8**部分
+1. 更新转专业同学的相关经历与建议，于 **[Chapter2-2.8](https://dutailab.wiki/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/Chapter2/#28)**部分
 
 ## ✅最近更新 Beta1.2.16 09.06
-1. 更新资料分享-大三部分：添加智能机器人及其专业选修部分课程内容
+1. 更新[资料分享-大三部分](https://dutailab.wiki/%E8%B5%84%E6%96%99%E5%88%86%E4%BA%AB/3%E5%A4%A7%E4%B8%89%E5%B9%B4%E7%BA%A7/1%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/course/)：添加智能机器人及其专业选修部分课程内容
 2. 调整网页逻辑
 ## ✅最近更新 Beta1.2.15 09.04
-1. 更新部分梯子的链接（10个）
+1. 更新部分梯子的[链接（10个）](https://dutailab.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/%E7%BF%BB%E5%A2%99/)
 ## ✅最近更新 Beta1.2.14 08.28
 
-1. 补充保研政策的解读（粗略版）
+1. 补充保研政策的[解读](https://dutailab.wiki/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/Chapter3/#343)（粗略版）
 2. 更新2022级 电信 推免方案
 
 ## ✅最近更新 Beta1.2.13 08.27
 
-1. 补充奖学金的政策解读
-2. 补充大一、大二的资料
+1. 补充奖学金的政策[解读](https://dutailab.wiki/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/Chapter3/#343)
+2. 补充大一、大二的[资料](https://dutailab.wiki/%E8%B5%84%E6%96%99%E5%88%86%E4%BA%AB/1%E5%A4%A7%E4%B8%80%E5%B9%B4%E7%BA%A7/1%E4%B8%93%E4%B8%9A%E8%AF%BE%E7%A8%8B/course/)
 
 ## 奇怪的讨论区
 
