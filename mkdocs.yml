@@ -148,10 +148,10 @@ nav:
 
   - 经验分享:
     - "写在前面的话": "index1.md"
-    - "Chapter 1.志在大工·一些方法论": "经验分享/Chapter1.md"
-    - "Chapter 2.学在大工·学业选择及路线建议": "经验分享/Chapter2.md"
-    - "Chapter 3.活在大工·政策解读与建议": "经验分享/Chapter3.md"
-    - "Chapter 4.巧在大工·消息渠道及资料分析": "经验分享/Chapter4.md"
+    - "Chapter1志在大工·一些方法论": "经验分享/Chapter1.md"
+    - "Chapter2学在大工·学业性建议": "经验分享/Chapter2.md"
+    - "Chapter3活在大工·政策性建议": "经验分享/Chapter3.md"
+    - "Chapter4巧在大工·消息及资料分享": "经验分享/Chapter4.md"
     - "分享后记": "经验分享/Chapter5.md"
 
   # fallback_to_build_date: true

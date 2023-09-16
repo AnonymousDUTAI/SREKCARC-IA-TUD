@@ -16,7 +16,7 @@
 4. 招募管理人员（目前💫 1/5）
     - 欢迎有责任心、热心 or 熟练掌握前端开发 or 熟悉git协作 的朋友联系[作者](mailto:falcary@foxmail.com)
 
-## ✅最近更新 Beta1.2.18 09.17
+## ✅最近更新 Beta1.2.19 09.16
 
 1. 补充保研政策的[解读](https://dutailab.wiki/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/Chapter3/#343)（详细版）
 2. 更新2022级 人工智能 推免方案
