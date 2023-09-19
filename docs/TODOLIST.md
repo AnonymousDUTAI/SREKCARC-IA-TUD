@@ -2,7 +2,7 @@
 
 <div>
   <h3 align="center">
-    <img src="./images/Small_task.png" width="25" />
+    <img src="./images/Small_task.png" width="30" />
         Goals
   </h3>
 </div>

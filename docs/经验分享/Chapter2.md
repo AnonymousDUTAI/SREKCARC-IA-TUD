@@ -8,7 +8,7 @@
 
 <div>
   <h3 align="center">
-    <img src="./images/Small_task.png" width="25" />
+    <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/inspiration.png" width="25" />
         学人工智能以后可以做什么？
   </h3>
 </div>
@@ -19,7 +19,7 @@
 
 <div>
   <h3 align="center">
-    <img src="./images/Small_task.png" width="25" />
+    <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/ppt.png" width="25" />
       怎么学人工智能这个专业才能学好？
   </h3>
 </div>
@@ -33,7 +33,7 @@
 
 <div>
   <h3 align="center">
-    <img src="./images/Small_task.png" width="25" />
+    <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/ppt.png" width="25" />
       人工智能这边保研情况如何？为了保研我需要做什么，做到什么程度？
   </h3>
 </div>
@@ -73,7 +73,7 @@
 
 <div>
   <h3 align="center">
-    <img src="./images/Small_task.png" width="25" />
+    <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/notebook.png" width="25" />
       学 ai 的我，以后要读硕还是读博？
   </h3>
 </div>
@@ -84,7 +84,7 @@
 > 详见：[点击这里👆](https://zhuanlan.zhihu.com/p/25099638)
 >
 > 硕士？
-> 绝大部分的AI人应该都会读硕士吧～应该吧？
+> 绝大部分的应该都会读吧～
 
 ### 2.1.2 大一的小萌新
 

@@ -6,7 +6,7 @@
 ## 0.1 Docs 声明
 <div>
   <h3 align="center">
-    <img src="./images/Small_attention.png" width="40" />
+    <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/inspiration.png" width="40" />
         通知
   </h3>
 </div>
@@ -16,7 +16,7 @@
 
 <div>
   <h3 align="center">
-    <img src="./images/Small_Claim.png" width="40" />
+    <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/ppt.png"" width="40" />
       声明 📖
   </h3>
 </div>
