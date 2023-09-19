@@ -15,6 +15,15 @@
 
 4. 招募管理人员（目前💫 1/5）
     - 欢迎有责任心、热心 or 熟练掌握前端开发 or 熟悉git协作 的朋友联系[作者](mailto:falcary@foxmail.com)
+<div>
+  <h3 align="center">
+    <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/inspiration.png" width="30" />
+    What's New
+  </h3>
+</div>
+
+## ✅最近更新 Beta1.2.21 09.19
+1. 新增Chapter2 中 关于保研的**[2.8.2.6 一些工具🔧](http://127.0.0.1:8000/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/Chapter2/#2825)**部分
 ## ✅最近更新 Beta1.2.20 09.18
 
 1. 补充保研政策的[解读](https://dutailab.wiki/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/Chapter3/#343)（详细版）：关于CCF-CSP的介绍以及建议。
