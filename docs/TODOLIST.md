@@ -2,7 +2,7 @@
 
 <div>
   <h3 align="center">
-    <img src="./images/Small_task.png" width="30" />
+    <img src="https://yuezih-bucket.oss-cn-beijing.aliyuncs.com/email.png" width="30" />
         Goals
   </h3>
 </div>
