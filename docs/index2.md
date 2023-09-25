@@ -4,7 +4,7 @@
 
 # 前言
 
-**最近更新：[Beta 1.1](https://github.com/AnonymousDUTAI/SREKCARC-IA-TUD) 已发布 🎉**
+**最近更新：[Release v1.0](https://github.com/AnonymousDUTAI/SREKCARC-IA-TUD) 已发布 🎉**
 
 这是一本AI的自学指南，也是对自己大学三年学习生涯的一个纪念。
 

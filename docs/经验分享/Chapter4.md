@@ -31,37 +31,35 @@
 
 [**翻墙**](必学工具/翻墙.md)：由于一些众所周知的原因，谷歌、GitHub 等网站在大陆无法访问。然而很多时候，谷歌和 StackOverflow 可以解决你在开发过程中遇到的 99% 的问题。因此，学会翻墙几乎是一个内地 CSer 的必备技能。（考虑到法律问题，这个文档提供的翻墙方式仅对拥有北大邮箱的用户适用）。
 
-**命令行：**熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会极大地提高你作为工程师的灵活性以及生产力。[命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)是一份非常经典的教程，它源于 Quora 的一个提问，但在各路大神的贡献努力下已经成为了一个 GitHub 十万 stars 的顶流项目，被翻译成了十几种语言。教程不长，非常建议大家反复通读，在实践中内化吸收。同时，掌握 Shell 脚本编程也是一项不容忽视的技术，可以参考这个[教程](https://www.shellscript.sh/)。
+**命令行：** 熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会极大地提高你作为工程师的灵活性以及生产力。[命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)是一份非常经典的教程，它源于 Quora 的一个提问，但在各路大神的贡献努力下已经成为了一个 GitHub 十万 stars 的顶流项目，被翻译成了十几种语言。教程不长，非常建议大家反复通读，在实践中内化吸收。同时，掌握 Shell 脚本编程也是一项不容忽视的技术，可以参考这个[教程](https://www.shellscript.sh/)。
 
-**IDE (Integrated Development Environment)：**集成开发环境，说白了就是你写代码的地方。作为一个码农，IDE 的重要性不言而喻，但由于很多 IDE 是为大型工程项目设计的，体量较大，功能也过于丰富。其实如今一些轻便的文本编辑器配合丰富的插件生态基本可以满足日常的轻量编程需求。个人常用的编辑器是 VS Code 和 Sublime（前者的插件配置非常简单，后者略显复杂但颜值很高）。当然对于大型项目我还是会采用略重型的 IDE，例如 Pycharm (Python)，IDEA (Java) 等等（免责申明：所有的 IDE 都是世界上最好的 IDE）。
+**IDE (Integrated Development Environment)：** 集成开发环境，说白了就是你写代码的地方。作为一个码农，IDE 的重要性不言而喻，但由于很多 IDE 是为大型工程项目设计的，体量较大，功能也过于丰富。其实如今一些轻便的文本编辑器配合丰富的插件生态基本可以满足日常的轻量编程需求。个人常用的编辑器是 VS Code 和 Sublime（前者的插件配置非常简单，后者略显复杂但颜值很高）。当然对于大型项目我还是会采用略重型的 IDE，例如 Pycharm (Python)，IDEA (Java) 等等（免责申明：所有的 IDE 都是世界上最好的 IDE）。
 
-**[Vim](必学工具/Vim.md)：**一款命令行编辑工具。这是一个学习曲线有些陡峭的编辑器，不过学会它我觉得是非常有必要的，因为它将极大地提高你的开发效率。现在绝大多数 IDE 也都支持 Vim 插件，让你在享受现代开发环境的同时保留极客的炫酷（yue）。
+**[Vim](必学工具/Vim.md)：** 一款命令行编辑工具。这是一个学习曲线有些陡峭的编辑器，不过学会它我觉得是非常有必要的，因为它将极大地提高你的开发效率。现在绝大多数 IDE 也都支持 Vim 插件，让你在享受现代开发环境的同时保留极客的炫酷（yue）。
 
-**[Git](必学工具/Git.md)：**一款代码版本控制工具。Git的学习曲线可能更为陡峭，但出自 Linux 之父 Linus 之手的 Git 绝对是每个学 CS 的童鞋必须掌握的神器之一。
+**[Git](必学工具/Git.md)：** 一款代码版本控制工具。Git的学习曲线可能更为陡峭，但出自 Linux 之父 Linus 之手的 Git 绝对是每个学 CS 的童鞋必须掌握的神器之一。
 
-**[GitHub](必学工具/GitHub.md)：**基于 Git 的代码托管平台。全世界最大的代码开源社区，大佬集聚地。
+**[GitHub](必学工具/GitHub.md)：** 基于 Git 的代码托管平台。全世界最大的代码开源社区，大佬集聚地。
 
-**[GNU Make](必学工具/GNU_Make.md)**：一款工程构建工具。善用 GNU Make 会让你养成代码模块化的习惯，同时也能让你熟悉一些大型工程的编译链接流程。
+**[GNU Make](必学工具/GNU_Make.md)** ：一款工程构建工具。善用 GNU Make 会让你养成代码模块化的习惯，同时也能让你熟悉一些大型工程的编译链接流程。
 
-**[CMake](必学工具/CMake.md)：**一款功能比 GNU Make 更为强大的构建工具，建议掌握 GNU Make 之后再加以学习。
+**[CMake](必学工具/CMake.md)：** 一款功能比 GNU Make 更为强大的构建工具，建议掌握 GNU Make 之后再加以学习。
 
-**[LaTex](必学工具/LaTeX.md)：**<del>逼格提升</del> 论文排版工具。
+**[LaTex](必学工具/LaTeX.md)：** <del>逼格提升</del> 论文排版工具。
 
-**[Docker](必学工具/Docker.md)：**一款相较于虚拟机更轻量级的软件打包与环境部署工具。
+**[Docker](必学工具/Docker.md)：** 一款相较于虚拟机更轻量级的软件打包与环境部署工具。
 
-**[实用工具箱](必学工具/tools.md)：**除了上面提到的这些在开发中使用频率极高的工具之外，我还收集了很多实用有趣的免费工具，例如一些下载工具、设计工具、学习网站等等。
+**[实用工具箱](必学工具/tools.md)：** 除了上面提到的这些在开发中使用频率极高的工具之外，我还收集了很多实用有趣的免费工具，例如一些下载工具、设计工具、学习网站等等。
 
-**[Thesis](必学工具/thesis.md)：**毕业论文 Word 写作教程。
+**[Thesis](必学工具/thesis.md)：** 毕业论文 Word 写作教程。
 
-**[Zlibrary](https://singlelogin.re/)**：超级棒的电子书下载网站，不过需要科学上网哦～
-
-
+**[Zlibrary](https://singlelogin.re/)** ：超级棒的电子书下载网站，不过需要科学上网哦～
 
 ##  4.3  PPT 材料
 
-- 大工模板：https://mp.weixin.qq.com/s/_tY4-rAXfivCSY25UV4pMA
-- Office 官网：https://www.officeplus.cn/
-- 保研+考研 复试 PPT 模板 🈲️外传
+- 「大工模板」：https://mp.weixin.qq.com/s/_tY4-rAXfivCSY25UV4pMA
+- 「Office 官网」：https://www.officeplus.cn/
+- 「保研+考研 复试 PPT 模板 」
   - [链接](https://pan.baidu.com/s/1VLrToFsiIcnSxGjP1qp3tw?pwd=ffff)
 
 ##    4.4 购买课程
