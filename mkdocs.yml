@@ -35,6 +35,7 @@ theme:
     - search.suggest
     # - toc.integrate
     - content.code.annotate
+    - content.tabs.link
     - announce.dismiss
 
   palette:
@@ -350,11 +351,14 @@ nav:
       - "MIT 6.007 Signals and Systems": "电子基础/Signals_and_Systems_AVO.md"
 
     - 后记: "后记.md"
+
   - 资料分享:
     - 大一年级: "资料分享/1大一年级/1专业课程/course.md"
       # - 其他 : "Waiting.md"
     - 大二年级: "资料分享/2大二年级/1专业课程/course.md"
     - 大三年级: "资料分享/3大三年级/1专业课程/course.md"
+    
+    - 其他资料: "资料分享/learning_material.md"
 
   - 更新日志&讨论: "TODOLIST.md"
 

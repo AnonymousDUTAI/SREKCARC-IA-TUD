@@ -107,7 +107,7 @@
   2.同时可以试一试四级练习题目练一练手
 - **参考资料**
   
-    1. 考试练习题：[下载地址](https://pan.baidu.com/s/1jLeIi9mHqL9hUCHgPtIOgA?pwd=ife5)
+    - 考试练习题：[下载地址](https://pan.baidu.com/s/1jLeIi9mHqL9hUCHgPtIOgA?pwd=ife5)
   
   <script src="https://giscus.app/client.js"
         data-repo="AnonymousDUTAI/SREKCARC-IA-TUD"
