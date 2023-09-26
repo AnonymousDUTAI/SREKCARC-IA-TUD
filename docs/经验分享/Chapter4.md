@@ -2,7 +2,7 @@
 
 ##  4.1 重要的联系方式
 
-- 电信学部教务：🌈创新园大厦 a312  ☎️电话 0411-84708473 联系时间：工作日 8：00-17：00
+- 电信学部教务： 🌈创新园大厦 a312  ☎️电话 0411-84708473 联系时间：工作日 8：00-17：00
 - 学校教务
   - <figure markdown>
   ![Image title](./images/tele.png){ width="600" }
@@ -63,13 +63,14 @@
   - [链接](https://pan.baidu.com/s/1VLrToFsiIcnSxGjP1qp3tw?pwd=ffff)
 
 ## 4.4 科研学习
-    - [x] [机器之心，死磕论文前，不如先找齐一套好用的工具](https://www.zhihu.com/search?type=content&q=%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E5%B7%A5%E5%85%B7%20%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83)
 
-    - [x] [文献阅读三步法](https://www.zhihu.com/search?type=content&q=%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB)
+- [x] [机器之心，死磕论文前，不如先找齐一套好用的工具](https://www.zhihu.com/search?type=content&q=%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E5%B7%A5%E5%85%B7%20%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83)
 
-    - [x] [李沐，我是如何快速阅读和整理文献](https://www.bilibili.com/video/BV1nA41157y4/?spm_id_from=333.337.search-card.all.click)
+- [x] [文献阅读三步法](https://www.zhihu.com/search?type=content&q=%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB)
 
-    - [x] [吴恩达，亲授 “如何有效阅读论文？并了解一个新的领域？”](https://www.bilibili.com/video/BV15e4y1S7xY/?spm_id_from=333.337.search-card.all.click&vd_source=6b9a2535ccfad06306e6eddf822fe238)
+- [x] [李沐，我是如何快速阅读和整理文献](https://www.bilibili.com/video/BV1nA41157y4/?spm_id_from=333.337.search-card.all.click)
+
+- [x] [吴恩达，亲授 “如何有效阅读论文？并了解一个新的领域？”](https://www.bilibili.com/video/BV15e4y1S7xY/?spm_id_from=333.337.search-card.all.click&vd_source=6b9a2535ccfad06306e6eddf822fe238)
 
 ## 4.5  公众号推荐
 
