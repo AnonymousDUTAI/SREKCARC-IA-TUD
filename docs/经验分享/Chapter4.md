@@ -62,24 +62,14 @@
 - 「保研+考研 复试 PPT 模板 」
   - [链接](https://pan.baidu.com/s/1VLrToFsiIcnSxGjP1qp3tw?pwd=ffff)
 
-##    4.4 购买课程
+## 4.4 科研学习
+    - [x] [机器之心，死磕论文前，不如先找齐一套好用的工具](https://www.zhihu.com/search?type=content&q=%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E5%B7%A5%E5%85%B7%20%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83)
 
-###     4.4.1 机器人路径规划-高飞
+    - [x] [文献阅读三步法](https://www.zhihu.com/search?type=content&q=%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB)
 
-    [链接](https://pan.baidu.com/s/1by0oEvOMsNTVGgpZaiJcsg?pwd=ffff)
+    - [x] [李沐，我是如何快速阅读和整理文献](https://www.bilibili.com/video/BV1nA41157y4/?spm_id_from=333.337.search-card.all.click)
 
-###     4.4.2 机器学习数学基础
-
-    [链接](https://pan.baidu.com/s/1naLRgGuA7rRXkRrJKIEnTA?pwd=7jer)
-
-###     4.4.3 ROS 学习（古月居）
-
-    [链接](https://pan.baidu.com/s/1UTT9FFqpp_Ubxex02OoI4g?pwd=vxx5)
-
-###     4.4.4 视觉 SLAM-高翔
-
-    [链接](https://pan.baidu.com/s/1w9N8ZKVfSjJt6tb7JmbbPg?pwd=3yyh)
-
+    - [x] [吴恩达，亲授 “如何有效阅读论文？并了解一个新的领域？”](https://www.bilibili.com/video/BV15e4y1S7xY/?spm_id_from=333.337.search-card.all.click&vd_source=6b9a2535ccfad06306e6eddf822fe238)
 
 ## 4.5  公众号推荐
 
