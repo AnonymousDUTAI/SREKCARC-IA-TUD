@@ -18,22 +18,22 @@
 
 !!! info "参考课程"
 
-                === "机器人路径规划"
+        === "机器人路径规划"
 
-                        ``` markdown
-                        * 路径规划 高飞，深蓝学院课程，预计自学时间2-4周
-                        * [链接](https://pan.baidu.com/s/1by0oEvOMsNTVGgpZaiJcsg?pwd=ffff)
-                        ```
-                === "SLAM"
-                        ``` markdown
-                        * Visual SLAM 高翔，深蓝学院课程，预计自学时间2-4周
-                        * [链接](https://pan.baidu.com/s/1w9N8ZKVfSjJt6tb7JmbbPg?pwd=3yyh)
-                        ```
-                === "ROS学习"
-                        ``` markdown
-                        * 古月居，深蓝学院课程，也有B站教程，预计自学时间1-2周
-                        * [链接](https://pan.baidu.com/s/1UTT9FFqpp_Ubxex02OoI4g?pwd=vxx5)
-                        ```
+                ``` markdown
+                * 路径规划 高飞，深蓝学院课程，预计自学时间2-4周
+                * [链接](https://pan.baidu.com/s/1by0oEvOMsNTVGgpZaiJcsg?pwd=ffff)
+                ```
+        === "SLAM"
+                ``` markdown
+                * Visual SLAM 高翔，深蓝学院课程，预计自学时间2-4周
+                * [链接](https://pan.baidu.com/s/1w9N8ZKVfSjJt6tb7JmbbPg?pwd=3yyh)
+                ```
+        === "ROS学习"
+                ``` markdown
+                * 古月居，深蓝学院课程，也有B站教程，预计自学时间1-2周
+                * [链接](https://pan.baidu.com/s/1UTT9FFqpp_Ubxex02OoI4g?pwd=vxx5)
+                ```
         
 
 ## 机器学习数学基础
