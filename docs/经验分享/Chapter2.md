@@ -1,8 +1,3 @@
----
-title: Built-in blog plugin
-icon: material/newspaper-variant-outline
----
-
 # Chapter 2 学在大工·海纳百川
 
 ## 2.1 课程学习者·AI 体系的课程如何学？
