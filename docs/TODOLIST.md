@@ -33,11 +33,9 @@
   </h3>
 </div>
 
-!!! success "✅最近更新 Released v1.2 09.26"
+!!! success "✅最近更新 Released v1.3 10.07"
 
-    1. 新增 [经验分享-chapter2-衡量学术价值](https://dutailab.wiki/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/Chapter2/#224) 板块.
-    2. 新增 [经验分享-chapter2-关于进组工作的一些真诚建议](https://dutailab.wiki/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/Chapter2/#227) 板块.
-    3. 新增 [经验分享-chapter2-保研群](https://dutailab.wiki/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/Chapter2/#_1)部分。   
+    1. 新增 [经验分享-chapter2-2.8.1.2 2020级升学情况-保研](https://dutailab.wiki/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/Chapter2/#2812-2020)板块. 
     
 ## ✅最近更新 Released v1.2 09.26
 1. 新增 [经验分享-chapter2-衡量学术价值](https://dutailab.wiki/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/Chapter2/#224) 板块.
