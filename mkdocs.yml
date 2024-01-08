@@ -205,16 +205,16 @@ extra:
 nav:
   - 首页: "index.md"
 
-  - 经验分享:
+  - 打工人·大工人:
     - 写在前面的话: index1.md
-    - Chapter1 志在大工·一些方法论: "经验分享/Chapter1.md"
-    - Chapter2学在大工·学业性建议: "经验分享/Chapter2.md"
-    - Chapter3活在大工·政策性建议: "经验分享/Chapter3.md"
-    - Chapter4巧在大工·工具类分享: "经验分享/Chapter4.md"
-    - 分享后记: "经验分享/Chapter5.md"
+    - 篇章一·志在大工·一些方法论: "经验分享/Chapter1.md"
+    - 篇章二·学在大工·学业性建议: "经验分享/Chapter2.md"
+    - 篇章三·活在大工·政策性建议: "经验分享/Chapter3.md"
+    - 篇章四·巧在大工·工具类分享: "经验分享/Chapter4.md"
+    - 后记: "经验分享/Chapter5.md"
 
   # fallback_to_build_date: true
-  - 学习部分:
+  - 自主学习:
     - 前言: "index2.md"  
     - 如何使用这本书: "使用指南.md"
     - 一个仅供参考的AI学习规划: "CS学习规划.md"
@@ -369,7 +369,6 @@ nav:
 
   - 资料分享:
     - 大一年级: "资料分享/1大一年级/1专业课程/course.md"
-      # - 其他 : "Waiting.md"
     - 大二年级: "资料分享/2大二年级/1专业课程/course.md"
     - 大三年级: "资料分享/3大三年级/1专业课程/course.md"
 

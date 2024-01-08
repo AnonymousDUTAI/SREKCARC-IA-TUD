@@ -33,14 +33,19 @@
   </h3>
 </div>
 
-!!! success "✅最近更新 Released v1.3 10.07"
+!!! success "✅最近更新 Released v1.4 2024.01.08"
 
-    1. 新增 [经验分享-chapter2-2.8.1.2 2020级升学情况-保研](https://dutailab.wiki/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/Chapter2/#2812-2020)板块. 
+    1. 增加网页模块的丰富度，解决了一些排版问题.
+    2. 更改 [经验分享-篇章三·关于老师课程选择](https://dutailab.wiki/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/Chapter3/#315-ai)板块. 
     
+## ✅最近更新 Released v1.3 10.07
+1. 新增 [经验分享-chapter2-2.8.1.2 2020级升学情况-保研](https://dutailab.wiki/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/Chapter2/#2812-2020)板块. 
+
 ## ✅最近更新 Released v1.2 09.26
 1. 新增 [经验分享-chapter2-衡量学术价值](https://dutailab.wiki/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/Chapter2/#224) 板块.
 2. 新增 [经验分享-chapter2-关于进组工作的一些真诚建议](https://dutailab.wiki/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/Chapter2/#227) 板块.
 3. 新增 [经验分享-chapter2-保研群](https://dutailab.wiki/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/Chapter2/#_1)部分.
+
 ## ✅最近更新 Released v1.1 09.25
 1. 新增 [资料分享-学习资料](资料分享/learning_material.md) 板块.
 2. 增加网页模块的丰富度，解决了一些排版问题.
